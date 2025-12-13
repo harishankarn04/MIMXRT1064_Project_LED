@@ -4,7 +4,7 @@ lvgl/src/others/monkey/lv_monkey.o lvgl/src/others/monkey/lv_monkey.d: \
  ../lvgl/src/others/monkey/lv_monkey.h \
  ../lvgl/src/others/monkey/../../lv_conf_internal.h \
  ../lvgl/src/others/monkey/../../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/others/monkey/../../indev/lv_indev.h \
  ../lvgl/src/others/monkey/../../indev/../core/lv_group.h \
  ../lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h \
@@ -27,7 +27,7 @@ lvgl/src/others/monkey/lv_monkey.o lvgl/src/others/monkey/lv_monkey.d: \
 ../lvgl/src/others/monkey/lv_monkey.h:
 ../lvgl/src/others/monkey/../../lv_conf_internal.h:
 ../lvgl/src/others/monkey/../../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/others/monkey/../../indev/lv_indev.h:
 ../lvgl/src/others/monkey/../../indev/../core/lv_group.h:
 ../lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h:

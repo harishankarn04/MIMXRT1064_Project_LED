@@ -4,7 +4,7 @@ lvgl/src/core/lv_obj_scroll.o lvgl/src/core/lv_obj_scroll.d: \
  ../lvgl/src/core/lv_obj_scroll.h ../lvgl/src/core/../misc/lv_area.h \
  ../lvgl/src/core/../misc/../lv_conf_internal.h \
  ../lvgl/src/core/../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/core/../misc/lv_types.h ../lvgl/src/core/../misc/lv_math.h \
  ../lvgl/src/core/../misc/lv_anim.h ../lvgl/src/core/../misc/lv_timer.h \
  ../lvgl/src/core/../misc/../tick/lv_tick.h \
@@ -127,7 +127,7 @@ lvgl/src/core/lv_obj_scroll.o lvgl/src/core/lv_obj_scroll.d: \
 ../lvgl/src/core/../misc/lv_area.h:
 ../lvgl/src/core/../misc/../lv_conf_internal.h:
 ../lvgl/src/core/../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/core/../misc/lv_types.h:
 ../lvgl/src/core/../misc/lv_math.h:
 ../lvgl/src/core/../misc/lv_anim.h:

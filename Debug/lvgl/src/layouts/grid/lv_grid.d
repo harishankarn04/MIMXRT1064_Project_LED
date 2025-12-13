@@ -2,7 +2,7 @@ lvgl/src/layouts/grid/lv_grid.o lvgl/src/layouts/grid/lv_grid.d: \
  ../lvgl/src/layouts/grid/lv_grid.c ../lvgl/src/layouts/grid/lv_grid.h \
  ../lvgl/src/layouts/grid/../../lv_conf_internal.h \
  ../lvgl/src/layouts/grid/../../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/layouts/grid/../../misc/lv_area.h \
  ../lvgl/src/layouts/grid/../../misc/../lv_conf_internal.h \
  ../lvgl/src/layouts/grid/../../misc/lv_types.h \
@@ -204,7 +204,7 @@ lvgl/src/layouts/grid/lv_grid.o lvgl/src/layouts/grid/lv_grid.d: \
 ../lvgl/src/layouts/grid/lv_grid.h:
 ../lvgl/src/layouts/grid/../../lv_conf_internal.h:
 ../lvgl/src/layouts/grid/../../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/layouts/grid/../../misc/lv_area.h:
 ../lvgl/src/layouts/grid/../../misc/../lv_conf_internal.h:
 ../lvgl/src/layouts/grid/../../misc/lv_types.h:

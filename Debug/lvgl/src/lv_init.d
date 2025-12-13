@@ -4,7 +4,7 @@ lvgl/src/lv_init.o lvgl/src/lv_init.d: ../lvgl/src/lv_init.c \
  ../lvgl/src/others/sysmon/../../misc/lv_timer.h \
  ../lvgl/src/others/sysmon/../../misc/../lv_conf_internal.h \
  ../lvgl/src/others/sysmon/../../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/others/sysmon/../../misc/../tick/lv_tick.h \
  ../lvgl/src/others/sysmon/../../misc/../tick/../lv_conf_internal.h \
  ../lvgl/src/others/sysmon/../../misc/../tick/../misc/lv_types.h \
@@ -270,7 +270,7 @@ lvgl/src/lv_init.o lvgl/src/lv_init.d: ../lvgl/src/lv_init.c \
 ../lvgl/src/others/sysmon/../../misc/lv_timer.h:
 ../lvgl/src/others/sysmon/../../misc/../lv_conf_internal.h:
 ../lvgl/src/others/sysmon/../../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/others/sysmon/../../misc/../tick/lv_tick.h:
 ../lvgl/src/others/sysmon/../../misc/../tick/../lv_conf_internal.h:
 ../lvgl/src/others/sysmon/../../misc/../tick/../misc/lv_types.h:

@@ -2,7 +2,7 @@ lvgl/src/misc/lv_color.o lvgl/src/misc/lv_color.d: \
  ../lvgl/src/misc/lv_color.c ../lvgl/src/misc/lv_color.h \
  ../lvgl/src/misc/../lv_conf_internal.h \
  ../lvgl/src/misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/misc/lv_assert.h ../lvgl/src/misc/lv_log.h \
  ../lvgl/src/misc/lv_types.h ../lvgl/src/misc/../stdlib/lv_mem.h \
  ../lvgl/src/misc/../stdlib/../lv_conf_internal.h \
@@ -12,7 +12,7 @@ lvgl/src/misc/lv_color.o lvgl/src/misc/lv_color.d: \
 ../lvgl/src/misc/lv_color.h:
 ../lvgl/src/misc/../lv_conf_internal.h:
 ../lvgl/src/misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/misc/lv_assert.h:
 ../lvgl/src/misc/lv_log.h:
 ../lvgl/src/misc/lv_types.h:

@@ -3,7 +3,7 @@ source/lv_hb_canvas_label.o source/lv_hb_canvas_label.d: \
  ../source/../lvgl/lvgl.h ../source/../lvgl/lv_version.h \
  ../source/../lvgl/src/lv_init.h ../source/../lvgl/src/lv_conf_internal.h \
  ../source/../lvgl/src/lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h \
  ../source/../lvgl/src/misc/lv_types.h \
  ../source/../lvgl/src/misc/../lv_conf_internal.h \
  ../source/../lvgl/src/stdlib/lv_mem.h \
@@ -427,21 +427,21 @@ source/lv_hb_canvas_label.o source/lv_hb_canvas_label.d: \
  ../source/harfbuzz/include/hb-ft.h \
  ../source/harfbuzz/include/../../Freetype/freetype_include/ft2build.h \
  ../source/harfbuzz/include/../../Freetype/freetype_include/freetype/config/ftheader.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/freetype.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/../ft2build.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/../../ft2build.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftoption.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftstdlib.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/integer-types.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/public-macros.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/mac-support.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fttypes.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftsystem.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftimage.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrors.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftmoderr.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrdef.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/freetype.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/../ft2build.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftconfig.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/../../ft2build.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftoption.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftstdlib.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/integer-types.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/public-macros.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/mac-support.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fttypes.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftsystem.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftimage.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrors.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftmoderr.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrdef.h \
  ../source/Freetype/freetype_include/ft2build.h
 ../source/lv_hb_canvas_label.h:
 ../source/../lvgl/lvgl.h:
@@ -449,7 +449,7 @@ source/lv_hb_canvas_label.o source/lv_hb_canvas_label.d: \
 ../source/../lvgl/src/lv_init.h:
 ../source/../lvgl/src/lv_conf_internal.h:
 ../source/../lvgl/src/lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h:
 ../source/../lvgl/src/misc/lv_types.h:
 ../source/../lvgl/src/misc/../lv_conf_internal.h:
 ../source/../lvgl/src/stdlib/lv_mem.h:
@@ -881,19 +881,19 @@ source/lv_hb_canvas_label.o source/lv_hb_canvas_label.d: \
 ../source/harfbuzz/include/hb-ft.h:
 ../source/harfbuzz/include/../../Freetype/freetype_include/ft2build.h:
 ../source/harfbuzz/include/../../Freetype/freetype_include/freetype/config/ftheader.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/freetype.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/../ft2build.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/../../ft2build.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftoption.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftstdlib.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/integer-types.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/public-macros.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/mac-support.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fttypes.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftsystem.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftimage.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrors.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftmoderr.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrdef.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/freetype.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/../ft2build.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftconfig.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/../../ft2build.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftoption.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/ftstdlib.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/integer-types.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/public-macros.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/config/mac-support.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fttypes.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftsystem.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftimage.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrors.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/ftmoderr.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/freetype_include/freetype/fterrdef.h:
 ../source/Freetype/freetype_include/ft2build.h:

@@ -3,7 +3,7 @@ lvgl/src/libs/gif/gifdec.o lvgl/src/libs/gif/gifdec.d: \
  ../lvgl/src/libs/gif/../../misc/lv_fs.h \
  ../lvgl/src/libs/gif/../../misc/../lv_conf_internal.h \
  ../lvgl/src/libs/gif/../../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/libs/gif/../../misc/lv_types.h \
  ../lvgl/src/libs/gif/../../misc/lv_log.h \
  ../lvgl/src/libs/gif/../../stdlib/lv_mem.h \
@@ -22,7 +22,7 @@ lvgl/src/libs/gif/gifdec.o lvgl/src/libs/gif/gifdec.d: \
 ../lvgl/src/libs/gif/../../misc/lv_fs.h:
 ../lvgl/src/libs/gif/../../misc/../lv_conf_internal.h:
 ../lvgl/src/libs/gif/../../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/libs/gif/../../misc/lv_types.h:
 ../lvgl/src/libs/gif/../../misc/lv_log.h:
 ../lvgl/src/libs/gif/../../stdlib/lv_mem.h:

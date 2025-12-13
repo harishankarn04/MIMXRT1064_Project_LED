@@ -5,7 +5,7 @@ lvgl/src/libs/lodepng/lodepng.o lvgl/src/libs/lodepng/lodepng.d: \
  ../lvgl/src/libs/lodepng/../../../src/lv_init.h \
  ../lvgl/src/libs/lodepng/../../../src/lv_conf_internal.h \
  ../lvgl/src/libs/lodepng/../../../src/lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/libs/lodepng/../../../src/misc/lv_types.h \
  ../lvgl/src/libs/lodepng/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/libs/lodepng/../../../src/stdlib/lv_mem.h \
@@ -421,7 +421,7 @@ lvgl/src/libs/lodepng/lodepng.o lvgl/src/libs/lodepng/lodepng.d: \
 ../lvgl/src/libs/lodepng/../../../src/lv_init.h:
 ../lvgl/src/libs/lodepng/../../../src/lv_conf_internal.h:
 ../lvgl/src/libs/lodepng/../../../src/lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/libs/lodepng/../../../src/misc/lv_types.h:
 ../lvgl/src/libs/lodepng/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/libs/lodepng/../../../src/stdlib/lv_mem.h:

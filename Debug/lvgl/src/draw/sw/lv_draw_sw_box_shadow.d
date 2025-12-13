@@ -5,7 +5,7 @@ lvgl/src/draw/sw/lv_draw_sw_box_shadow.o \
  ../lvgl/src/draw/sw/../../misc/lv_area.h \
  ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/sw/../../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/draw/sw/../../misc/lv_types.h \
  ../lvgl/src/draw/sw/../../misc/lv_math.h \
  ../lvgl/src/draw/sw/lv_draw_sw_mask_private.h \
@@ -199,7 +199,7 @@ lvgl/src/draw/sw/lv_draw_sw_box_shadow.o \
 ../lvgl/src/draw/sw/../../misc/lv_area.h:
 ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/sw/../../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/draw/sw/../../misc/lv_types.h:
 ../lvgl/src/draw/sw/../../misc/lv_math.h:
 ../lvgl/src/draw/sw/lv_draw_sw_mask_private.h:

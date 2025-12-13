@@ -4,7 +4,7 @@ lvgl/src/libs/gif/lv_gif.o lvgl/src/libs/gif/lv_gif.d: \
  ../lvgl/src/libs/gif/../../misc/lv_timer.h \
  ../lvgl/src/libs/gif/../../misc/../lv_conf_internal.h \
  ../lvgl/src/libs/gif/../../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/libs/gif/../../misc/../tick/lv_tick.h \
  ../lvgl/src/libs/gif/../../misc/../tick/../lv_conf_internal.h \
  ../lvgl/src/libs/gif/../../misc/../tick/../misc/lv_types.h \
@@ -164,7 +164,7 @@ lvgl/src/libs/gif/lv_gif.o lvgl/src/libs/gif/lv_gif.d: \
 ../lvgl/src/libs/gif/../../misc/lv_timer.h:
 ../lvgl/src/libs/gif/../../misc/../lv_conf_internal.h:
 ../lvgl/src/libs/gif/../../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/libs/gif/../../misc/../tick/lv_tick.h:
 ../lvgl/src/libs/gif/../../misc/../tick/../lv_conf_internal.h:
 ../lvgl/src/libs/gif/../../misc/../tick/../misc/lv_types.h:

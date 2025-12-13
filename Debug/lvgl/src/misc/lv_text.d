@@ -2,7 +2,7 @@ lvgl/src/misc/lv_text.o lvgl/src/misc/lv_text.d: \
  ../lvgl/src/misc/lv_text.c ../lvgl/src/misc/lv_text_private.h \
  ../lvgl/src/misc/lv_text.h ../lvgl/src/misc/../lv_conf_internal.h \
  ../lvgl/src/misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/misc/lv_types.h ../lvgl/src/misc/lv_area.h \
  ../lvgl/src/misc/lv_math.h ../lvgl/src/misc/../font/lv_font.h \
  ../lvgl/src/misc/../font/../lv_conf_internal.h \
@@ -87,7 +87,7 @@ lvgl/src/misc/lv_text.o lvgl/src/misc/lv_text.d: \
 ../lvgl/src/misc/lv_text.h:
 ../lvgl/src/misc/../lv_conf_internal.h:
 ../lvgl/src/misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/misc/lv_types.h:
 ../lvgl/src/misc/lv_area.h:
 ../lvgl/src/misc/lv_math.h:

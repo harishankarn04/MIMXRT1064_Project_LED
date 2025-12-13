@@ -4,7 +4,7 @@ lvgl/src/misc/cache/lv_cache_entry.o lvgl/src/misc/cache/lv_cache_entry.d: \
  ../lvgl/src/misc/cache/../../osal/lv_os.h \
  ../lvgl/src/misc/cache/../../osal/../lv_conf_internal.h \
  ../lvgl/src/misc/cache/../../osal/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/misc/cache/../../osal/../misc/lv_types.h \
  ../lvgl/src/misc/cache/../../osal/../misc/../lv_conf_internal.h \
  ../lvgl/src/misc/cache/../../osal/lv_os_none.h \
@@ -29,7 +29,7 @@ lvgl/src/misc/cache/lv_cache_entry.o lvgl/src/misc/cache/lv_cache_entry.d: \
 ../lvgl/src/misc/cache/../../osal/lv_os.h:
 ../lvgl/src/misc/cache/../../osal/../lv_conf_internal.h:
 ../lvgl/src/misc/cache/../../osal/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/misc/cache/../../osal/../misc/lv_types.h:
 ../lvgl/src/misc/cache/../../osal/../misc/../lv_conf_internal.h:
 ../lvgl/src/misc/cache/../../osal/lv_os_none.h:

@@ -4,7 +4,7 @@ lvgl/src/libs/tjpgd/lv_tjpgd.o lvgl/src/libs/tjpgd/lv_tjpgd.d: \
  ../lvgl/src/libs/tjpgd/../../draw/lv_image_decoder.h \
  ../lvgl/src/libs/tjpgd/../../draw/../lv_conf_internal.h \
  ../lvgl/src/libs/tjpgd/../../draw/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/libs/tjpgd/../../draw/lv_draw_buf.h \
  ../lvgl/src/libs/tjpgd/../../draw/../misc/lv_types.h \
  ../lvgl/src/libs/tjpgd/../../draw/../misc/../lv_conf_internal.h \
@@ -421,7 +421,7 @@ lvgl/src/libs/tjpgd/lv_tjpgd.o lvgl/src/libs/tjpgd/lv_tjpgd.d: \
 ../lvgl/src/libs/tjpgd/../../draw/lv_image_decoder.h:
 ../lvgl/src/libs/tjpgd/../../draw/../lv_conf_internal.h:
 ../lvgl/src/libs/tjpgd/../../draw/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/libs/tjpgd/../../draw/lv_draw_buf.h:
 ../lvgl/src/libs/tjpgd/../../draw/../misc/lv_types.h:
 ../lvgl/src/libs/tjpgd/../../draw/../misc/../lv_conf_internal.h:

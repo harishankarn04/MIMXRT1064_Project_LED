@@ -2,7 +2,7 @@ lvgl/src/tick/lv_tick.o lvgl/src/tick/lv_tick.d: \
  ../lvgl/src/tick/lv_tick.c ../lvgl/src/tick/lv_tick_private.h \
  ../lvgl/src/tick/lv_tick.h ../lvgl/src/tick/../lv_conf_internal.h \
  ../lvgl/src/tick/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/tick/../misc/lv_types.h \
  ../lvgl/src/tick/../misc/../lv_conf_internal.h \
  ../lvgl/src/tick/../core/lv_global.h \
@@ -202,7 +202,7 @@ lvgl/src/tick/lv_tick.o lvgl/src/tick/lv_tick.d: \
 ../lvgl/src/tick/lv_tick.h:
 ../lvgl/src/tick/../lv_conf_internal.h:
 ../lvgl/src/tick/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/tick/../misc/lv_types.h:
 ../lvgl/src/tick/../misc/../lv_conf_internal.h:
 ../lvgl/src/tick/../core/lv_global.h:

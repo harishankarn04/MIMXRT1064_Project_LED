@@ -5,7 +5,7 @@ lvgl/src/widgets/roller/lv_roller.o lvgl/src/widgets/roller/lv_roller.d: \
  ../lvgl/src/widgets/roller/../../core/lv_obj.h \
  ../lvgl/src/widgets/roller/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/roller/../../core/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/widgets/roller/../../core/../misc/lv_types.h \
  ../lvgl/src/widgets/roller/../../core/../misc/../lv_conf_internal.h \
  ../lvgl/src/widgets/roller/../../core/../misc/lv_style.h \
@@ -174,7 +174,7 @@ lvgl/src/widgets/roller/lv_roller.o lvgl/src/widgets/roller/lv_roller.d: \
 ../lvgl/src/widgets/roller/../../core/lv_obj.h:
 ../lvgl/src/widgets/roller/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/roller/../../core/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/widgets/roller/../../core/../misc/lv_types.h:
 ../lvgl/src/widgets/roller/../../core/../misc/../lv_conf_internal.h:
 ../lvgl/src/widgets/roller/../../core/../misc/lv_style.h:

@@ -6,7 +6,7 @@ lvgl/src/drivers/display/fb/lv_linux_fbdev.o \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/lv_types.h \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/../lv_conf_internal.h \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/lv_timer.h \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/../tick/lv_tick.h \
  ../lvgl/src/drivers/display/fb/../../../display/../misc/../tick/../lv_conf_internal.h \
@@ -94,7 +94,7 @@ lvgl/src/drivers/display/fb/lv_linux_fbdev.o \
 ../lvgl/src/drivers/display/fb/../../../display/../misc/lv_types.h:
 ../lvgl/src/drivers/display/fb/../../../display/../misc/../lv_conf_internal.h:
 ../lvgl/src/drivers/display/fb/../../../display/../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/drivers/display/fb/../../../display/../misc/lv_timer.h:
 ../lvgl/src/drivers/display/fb/../../../display/../misc/../tick/lv_tick.h:
 ../lvgl/src/drivers/display/fb/../../../display/../misc/../tick/../lv_conf_internal.h:

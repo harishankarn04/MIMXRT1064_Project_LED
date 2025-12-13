@@ -3,7 +3,7 @@ lvgl/src/core/lv_obj_draw.o lvgl/src/core/lv_obj_draw.d: \
  ../lvgl/src/core/lv_obj_draw.h ../lvgl/src/core/../misc/lv_types.h \
  ../lvgl/src/core/../misc/../lv_conf_internal.h \
  ../lvgl/src/core/../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/core/../draw/lv_draw_rect.h \
  ../lvgl/src/core/../draw/lv_draw.h \
  ../lvgl/src/core/../draw/../lv_conf_internal.h \
@@ -122,7 +122,7 @@ lvgl/src/core/lv_obj_draw.o lvgl/src/core/lv_obj_draw.d: \
 ../lvgl/src/core/../misc/lv_types.h:
 ../lvgl/src/core/../misc/../lv_conf_internal.h:
 ../lvgl/src/core/../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/core/../draw/lv_draw_rect.h:
 ../lvgl/src/core/../draw/lv_draw.h:
 ../lvgl/src/core/../draw/../lv_conf_internal.h:

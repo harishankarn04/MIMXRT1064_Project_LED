@@ -5,7 +5,7 @@ lvgl/src/widgets/spinner/lv_spinner.o \
  ../lvgl/src/widgets/spinner/../../misc/lv_anim.h \
  ../lvgl/src/widgets/spinner/../../misc/../lv_conf_internal.h \
  ../lvgl/src/widgets/spinner/../../misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/widgets/spinner/../../misc/lv_types.h \
  ../lvgl/src/widgets/spinner/../../misc/lv_math.h \
  ../lvgl/src/widgets/spinner/../../misc/lv_timer.h \
@@ -434,7 +434,7 @@ lvgl/src/widgets/spinner/lv_spinner.o \
 ../lvgl/src/widgets/spinner/../../misc/lv_anim.h:
 ../lvgl/src/widgets/spinner/../../misc/../lv_conf_internal.h:
 ../lvgl/src/widgets/spinner/../../misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/widgets/spinner/../../misc/lv_types.h:
 ../lvgl/src/widgets/spinner/../../misc/lv_math.h:
 ../lvgl/src/widgets/spinner/../../misc/lv_timer.h:

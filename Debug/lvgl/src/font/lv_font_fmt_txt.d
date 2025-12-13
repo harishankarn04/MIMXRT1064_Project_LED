@@ -2,7 +2,7 @@ lvgl/src/font/lv_font_fmt_txt.o lvgl/src/font/lv_font_fmt_txt.d: \
  ../lvgl/src/font/lv_font_fmt_txt.c ../lvgl/src/font/lv_font.h \
  ../lvgl/src/font/../lv_conf_internal.h \
  ../lvgl/src/font/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/font/../misc/lv_types.h \
  ../lvgl/src/font/../misc/../lv_conf_internal.h \
  ../lvgl/src/font/lv_symbol_def.h ../lvgl/src/font/../draw/lv_draw_buf.h \
@@ -206,7 +206,7 @@ lvgl/src/font/lv_font_fmt_txt.o lvgl/src/font/lv_font_fmt_txt.d: \
 ../lvgl/src/font/lv_font.h:
 ../lvgl/src/font/../lv_conf_internal.h:
 ../lvgl/src/font/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/font/../misc/lv_types.h:
 ../lvgl/src/font/../misc/../lv_conf_internal.h:
 ../lvgl/src/font/lv_symbol_def.h:

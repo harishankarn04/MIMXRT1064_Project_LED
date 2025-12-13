@@ -1,4 +1,4 @@
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h:375:20:SNVS_LP_SRTC_StartTimer	16	static
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h:375:20:SNVS_LP_SRTC_StartTimer	16	static
 ../source/HAL/RTC/RTC_Driver.c:25:6:RTC_Init	16	static
 ../source/HAL/RTC/RTC_Driver.c:53:10:RTC_SetTime	32	static
 ../source/HAL/RTC/RTC_Driver.c:88:10:RTC_GetTime	32	static

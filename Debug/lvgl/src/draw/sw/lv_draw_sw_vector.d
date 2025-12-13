@@ -4,7 +4,7 @@ lvgl/src/draw/sw/lv_draw_sw_vector.o lvgl/src/draw/sw/lv_draw_sw_vector.d: \
  ../lvgl/src/draw/sw/../lv_image_decoder.h \
  ../lvgl/src/draw/sw/../../lv_conf_internal.h \
  ../lvgl/src/draw/sw/../../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/draw/sw/../lv_draw_buf.h \
  ../lvgl/src/draw/sw/../../misc/lv_types.h \
  ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
@@ -110,7 +110,7 @@ lvgl/src/draw/sw/lv_draw_sw_vector.o lvgl/src/draw/sw/lv_draw_sw_vector.d: \
 ../lvgl/src/draw/sw/../lv_image_decoder.h:
 ../lvgl/src/draw/sw/../../lv_conf_internal.h:
 ../lvgl/src/draw/sw/../../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/draw/sw/../lv_draw_buf.h:
 ../lvgl/src/draw/sw/../../misc/lv_types.h:
 ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h:

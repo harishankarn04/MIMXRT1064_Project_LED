@@ -5,7 +5,7 @@ lvgl/src/widgets/chart/lv_chart.o lvgl/src/widgets/chart/lv_chart.d: \
  ../lvgl/src/widgets/chart/../../core/lv_obj.h \
  ../lvgl/src/widgets/chart/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/chart/../../core/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/widgets/chart/../../core/../misc/lv_types.h \
  ../lvgl/src/widgets/chart/../../core/../misc/../lv_conf_internal.h \
  ../lvgl/src/widgets/chart/../../core/../misc/lv_style.h \
@@ -150,7 +150,7 @@ lvgl/src/widgets/chart/lv_chart.o lvgl/src/widgets/chart/lv_chart.d: \
 ../lvgl/src/widgets/chart/../../core/lv_obj.h:
 ../lvgl/src/widgets/chart/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/chart/../../core/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/widgets/chart/../../core/../misc/lv_types.h:
 ../lvgl/src/widgets/chart/../../core/../misc/../lv_conf_internal.h:
 ../lvgl/src/widgets/chart/../../core/../misc/lv_style.h:

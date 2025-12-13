@@ -4,7 +4,7 @@ lvgl/src/misc/lv_profiler_builtin.o lvgl/src/misc/lv_profiler_builtin.d: \
  ../lvgl/src/misc/lv_profiler_builtin.h \
  ../lvgl/src/misc/../lv_conf_internal.h \
  ../lvgl/src/misc/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/misc/../lvgl.h ../lvgl/src/misc/../../lvgl.h \
  ../lvgl/src/misc/../../lv_version.h ../lvgl/src/misc/../../src/lv_init.h \
  ../lvgl/src/misc/../../src/lv_conf_internal.h \
@@ -464,7 +464,7 @@ lvgl/src/misc/lv_profiler_builtin.o lvgl/src/misc/lv_profiler_builtin.d: \
 ../lvgl/src/misc/lv_profiler_builtin.h:
 ../lvgl/src/misc/../lv_conf_internal.h:
 ../lvgl/src/misc/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/misc/../lvgl.h:
 ../lvgl/src/misc/../../lvgl.h:
 ../lvgl/src/misc/../../lv_version.h:

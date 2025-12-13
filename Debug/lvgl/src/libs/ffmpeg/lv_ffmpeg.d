@@ -4,9 +4,9 @@ lvgl/src/libs/ffmpeg/lv_ffmpeg.o lvgl/src/libs/ffmpeg/lv_ffmpeg.d: \
  ../lvgl/src/libs/ffmpeg/lv_ffmpeg.h \
  ../lvgl/src/libs/ffmpeg/../../lv_conf_internal.h \
  ../lvgl/src/libs/ffmpeg/../../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h
 ../lvgl/src/libs/ffmpeg/lv_ffmpeg_private.h:
 ../lvgl/src/libs/ffmpeg/lv_ffmpeg.h:
 ../lvgl/src/libs/ffmpeg/../../lv_conf_internal.h:
 ../lvgl/src/libs/ffmpeg/../../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:

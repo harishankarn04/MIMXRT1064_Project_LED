@@ -6,7 +6,7 @@ lvgl/src/others/fragment/lv_fragment_manager.o \
  ../lvgl/src/others/fragment/../../core/lv_obj.h \
  ../lvgl/src/others/fragment/../../core/../lv_conf_internal.h \
  ../lvgl/src/others/fragment/../../core/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/others/fragment/../../core/../misc/lv_types.h \
  ../lvgl/src/others/fragment/../../core/../misc/../lv_conf_internal.h \
  ../lvgl/src/others/fragment/../../core/../misc/lv_style.h \
@@ -142,7 +142,7 @@ lvgl/src/others/fragment/lv_fragment_manager.o \
 ../lvgl/src/others/fragment/../../core/lv_obj.h:
 ../lvgl/src/others/fragment/../../core/../lv_conf_internal.h:
 ../lvgl/src/others/fragment/../../core/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/others/fragment/../../core/../misc/lv_types.h:
 ../lvgl/src/others/fragment/../../core/../misc/../lv_conf_internal.h:
 ../lvgl/src/others/fragment/../../core/../misc/lv_style.h:

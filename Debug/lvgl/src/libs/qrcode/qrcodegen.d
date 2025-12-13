@@ -5,7 +5,7 @@ lvgl/src/libs/qrcode/qrcodegen.o lvgl/src/libs/qrcode/qrcodegen.d: \
  ../lvgl/src/libs/qrcode/../../../src/lv_init.h \
  ../lvgl/src/libs/qrcode/../../../src/lv_conf_internal.h \
  ../lvgl/src/libs/qrcode/../../../src/lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/libs/qrcode/../../../src/misc/lv_types.h \
  ../lvgl/src/libs/qrcode/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/libs/qrcode/../../../src/stdlib/lv_mem.h \
@@ -422,7 +422,7 @@ lvgl/src/libs/qrcode/qrcodegen.o lvgl/src/libs/qrcode/qrcodegen.d: \
 ../lvgl/src/libs/qrcode/../../../src/lv_init.h:
 ../lvgl/src/libs/qrcode/../../../src/lv_conf_internal.h:
 ../lvgl/src/libs/qrcode/../../../src/lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/libs/qrcode/../../../src/misc/lv_types.h:
 ../lvgl/src/libs/qrcode/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/libs/qrcode/../../../src/stdlib/lv_mem.h:

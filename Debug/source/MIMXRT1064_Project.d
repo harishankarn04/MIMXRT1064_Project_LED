@@ -1,137 +1,137 @@
 source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
  ../source/MIMXRT1064_Project.c \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/opt.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/lwipopts.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/fsl_device_registers.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ADC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064_COMMON.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/core_cm7.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_version.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_gcc.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_cachel1.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/system_MIMXRT1064.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064_features.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ADC_ETC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_AIPSTZ.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_AOI.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_BEE.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CAN.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CCM.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CCM_ANALOG.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CM7_MCM.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CMP.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CSI.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CSU.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DCDC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DCP.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DMA.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DMAMUX.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ENC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ENET.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_EWM.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXIO.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXRAM.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXSPI.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPIO.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPT.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_I2S.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_GPR.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS_GPR.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_KPP.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LCDIF.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPI2C.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPSPI.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPUART.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_OCOTP.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PGC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PIT.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PMU.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PWM.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PXP.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ROMC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_RTWDOG.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SEMC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SNVS.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SPDIF.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SRC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TEMPMON.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TMR.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TRNG.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TSC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USB.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USBNC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USBPHY.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USB_ANALOG.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USDHC.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_WDOG.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XBARA.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XBARB.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XTALOSC24M.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/debug.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/arch.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/arch/cc.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/utilities/debug_console_lite/fsl_debug_console.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common_arm.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/sys_arch/dynamic/arch/sys_arch.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/init.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/timeouts.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/err.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcpbase.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/mem.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/pbuf.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip_addr.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4_addr.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6_addr.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/stats.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/memp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_std.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_priv.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/mem_priv.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip4.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/icmp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/icmp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/udp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/udp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/dhcp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/contrib/apps/ping/ping.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/board.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/clock_config.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_gpio.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/app.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phyksz8081.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phy.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phy.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/netif/ethernet.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ethernet.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ieee.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/ethernetif.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/opt.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/lwipopts.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/fsl_device_registers.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ADC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064_COMMON.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/core_cm7.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_version.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_gcc.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_cachel1.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/system_MIMXRT1064.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064_features.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ADC_ETC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_AIPSTZ.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_AOI.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_BEE.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CAN.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CCM.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CCM_ANALOG.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CM7_MCM.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CMP.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CSI.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CSU.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DCDC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DCP.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DMA.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DMAMUX.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ENC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ENET.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_EWM.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXIO.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXRAM.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXSPI.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPIO.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPT.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_I2S.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_GPR.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS_GPR.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_KPP.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LCDIF.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPI2C.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPSPI.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPUART.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_OCOTP.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PGC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PIT.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PMU.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PWM.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PXP.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ROMC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_RTWDOG.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SEMC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SNVS.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SPDIF.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SRC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TEMPMON.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TMR.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TRNG.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TSC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USB.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USBNC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USBPHY.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USB_ANALOG.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USDHC.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_WDOG.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XBARA.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XBARB.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XTALOSC24M.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/debug.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/arch.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/arch/cc.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/utilities/debug_console_lite/fsl_debug_console.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common_arm.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_clock.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/sys_arch/dynamic/arch/sys_arch.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/init.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/timeouts.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/err.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcpbase.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/mem.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/pbuf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip_addr.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4_addr.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6_addr.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/stats.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/memp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_std.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_priv.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/mem_priv.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip4.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/icmp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/icmp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/udp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/udp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/dhcp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/contrib/apps/ping/ping.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/board.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/clock_config.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_gpio.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_clock.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/app.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phyksz8081.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phy.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phy.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/netif/ethernet.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ethernet.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ieee.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/ethernetif.h \
  ../source/HAL/EthernetInterface/Ethernet.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h \
  ../source/HAL/EthernetInterface/protocols/tcp.h \
  ../source/HAL/EthernetInterface/protocols/udp.h \
  ../source/HAL/EthernetInterface/protocols/icmp.h \
  ../source/HAL/EthernetInterface/protocols/dhcp.h \
  ../source/HAL/EthernetInterface/protocols/igmp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/igmp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/igmp.h \
  ../source/HAL/EthernetInterface/protocols/TftpServer.h \
  ../source/HAL/EthernetInterface/protocols/TftpClient.h \
  ../source/HAL/EthernetInterface/Test/tcp_test.h \
@@ -139,26 +139,26 @@ source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
  ../source/HAL/EthernetInterface/Test/igmp_test.h \
  ../source/HAL/EthernetInterface/Test/tftp_test.h \
  ../source/HAL/LEDDriverInterface/LEDDriverTest.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/HAL/LEDDriverInterface/LEDDriver.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_edma.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi_edma.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_edma.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/peripherals.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/gpio/fsl_adapter_gpio.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/pin_mux.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/HAL/LEDDriverInterface/LEDDriver.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_edma.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi_edma.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_edma.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/peripherals.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/gpio/fsl_adapter_gpio.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/pin_mux.h \
  ../source/HAL/TimerModule/timer.h \
  ../source/HAL/TimerModule/../../Common/CommonDefs.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Middleware/LogManager/LogManager.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Middleware/LogManager/LogManager.h \
  ../source/HAL/RTC/RTC_Driver.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/common/CommonDefs.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/common/CommonDefs.h \
  ../source/HAL/LEDDriverInterface/LEDDriver.h \
  ../source/Middleware/LogManager/LogManager.h \
  ../source/Middleware/MessageLayerParser/MessageProtocolParser.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/HALInterface/Ethernet/UdpHandler.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/HALInterface/Ethernet/UdpHandler.h \
  ../source/Middleware/MessageLayerParser/ReceivingMessageQueue.h \
  ../source/Middleware/MessageLayerParser/MessageData.h \
  ../source/Middleware/SessionManager/SessionManager.h \
@@ -169,11 +169,11 @@ source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
  ../source/application/MessageHandler/InitializationCommand/InitializationResponce.h \
  ../source/application/MessageHandler/MutualControlCommand/MutualControlRequest.h \
  ../source/application/MessageHandler/MutualControlCommand/MutualControlResponse.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/silicon_id/fsl_silicon_id.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/silicon_id/fsl_silicon_id.h \
  ../source/../lvgl/lvgl.h ../source/../lvgl/lv_version.h \
  ../source/../lvgl/src/lv_init.h ../source/../lvgl/src/lv_conf_internal.h \
  ../source/../lvgl/src/lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h \
  ../source/../lvgl/src/misc/lv_types.h \
  ../source/../lvgl/src/misc/../lv_conf_internal.h \
  ../source/../lvgl/src/stdlib/lv_mem.h \
@@ -583,138 +583,138 @@ source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
  ../source/../source/application/DisplayController/lv_conf.h \
  ../source/application/DisplayController/lvgl_support.h \
  ../source/../lvgl/src/Image/Image.h ../source/lv_hb_canvas_label.h
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/opt.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/lwipopts.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/fsl_device_registers.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ADC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064_COMMON.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/core_cm7.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_version.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_gcc.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_cachel1.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/system_MIMXRT1064.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/MIMXRT1064_features.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ADC_ETC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_AIPSTZ.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_AOI.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_BEE.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CAN.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CCM.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CCM_ANALOG.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CM7_MCM.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CMP.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CSI.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_CSU.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DCDC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DCP.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DMA.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_DMAMUX.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ENC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ENET.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_EWM.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXIO.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXRAM.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_FLEXSPI.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPIO.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_GPT.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_I2S.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_GPR.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS_GPR.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_KPP.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LCDIF.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPI2C.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPSPI.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_LPUART.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_OCOTP.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PGC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PIT.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PMU.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PWM.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_PXP.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_ROMC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_RTWDOG.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SEMC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SNVS.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SPDIF.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_SRC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TEMPMON.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TMR.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TRNG.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_TSC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USB.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USBNC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USBPHY.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USB_ANALOG.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_USDHC.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_WDOG.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XBARA.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XBARB.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/device/periph/PERI_XTALOSC24M.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/debug.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/arch.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/arch/cc.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/utilities/debug_console_lite/fsl_debug_console.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common_arm.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_common.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/sys_arch/dynamic/arch/sys_arch.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/init.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/timeouts.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/err.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcpbase.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/mem.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/pbuf.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip_addr.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4_addr.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6_addr.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/stats.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/memp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_std.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_priv.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/mem_priv.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip4.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/icmp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/icmp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/udp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/udp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/dhcp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/contrib/apps/ping/ping.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/board.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/clock_config.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_gpio.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/app.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phyksz8081.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phy.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/phy/fsl_phy.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/netif/ethernet.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ethernet.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ieee.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/port/ethernetif.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/opt.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/lwipopts.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/fsl_device_registers.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ADC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064_COMMON.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/core_cm7.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_version.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_gcc.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_cachel1.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/system_MIMXRT1064.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/MIMXRT1064_features.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ADC_ETC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_AIPSTZ.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_AOI.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_BEE.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CAN.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CCM.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CCM_ANALOG.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CM7_MCM.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CMP.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CSI.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_CSU.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DCDC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DCP.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DMA.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_DMAMUX.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ENC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ENET.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_EWM.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXIO.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXRAM.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_FLEXSPI.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPIO.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_GPT.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_I2S.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_GPR.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_IOMUXC_SNVS_GPR.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_KPP.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LCDIF.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPI2C.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPSPI.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_LPUART.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_OCOTP.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PGC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PIT.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PMU.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PWM.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_PXP.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_ROMC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_RTWDOG.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SEMC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SNVS.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SPDIF.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_SRC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TEMPMON.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TMR.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TRNG.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_TSC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USB.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USBNC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USBPHY.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USB_ANALOG.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_USDHC.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_WDOG.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XBARA.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XBARB.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/device/periph/PERI_XTALOSC24M.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/debug.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/arch.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/arch/cc.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/CMSIS/cmsis_compiler.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/utilities/debug_console_lite/fsl_debug_console.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common_arm.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_clock.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_common.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/sys_arch/dynamic/arch/sys_arch.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/init.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/timeouts.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/err.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/tcpbase.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/mem.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/pbuf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip_addr.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4_addr.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6_addr.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/def.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/stats.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/memp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_std.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/memp_priv.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/priv/mem_priv.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip4.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip4.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/ip6.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ip.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/icmp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/icmp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/udp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/udp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/dhcp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/contrib/apps/ping/ping.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/board.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/clock_config.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_gpio.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_clock.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/app.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phyksz8081.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phy.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/phy/fsl_phy.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/netif/ethernet.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ethernet.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/prot/ieee.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/port/ethernetif.h:
 ../source/HAL/EthernetInterface/Ethernet.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/netif.h:
 ../source/HAL/EthernetInterface/protocols/tcp.h:
 ../source/HAL/EthernetInterface/protocols/udp.h:
 ../source/HAL/EthernetInterface/protocols/icmp.h:
 ../source/HAL/EthernetInterface/protocols/dhcp.h:
 ../source/HAL/EthernetInterface/protocols/igmp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/lwip/src/include/lwip/igmp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/lwip/src/include/lwip/igmp.h:
 ../source/HAL/EthernetInterface/protocols/TftpServer.h:
 ../source/HAL/EthernetInterface/protocols/TftpClient.h:
 ../source/HAL/EthernetInterface/Test/tcp_test.h:
@@ -722,26 +722,26 @@ source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
 ../source/HAL/EthernetInterface/Test/igmp_test.h:
 ../source/HAL/EthernetInterface/Test/tftp_test.h:
 ../source/HAL/LEDDriverInterface/LEDDriverTest.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/HAL/LEDDriverInterface/LEDDriver.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_edma.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi_edma.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_edma.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/peripherals.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/gpio/fsl_adapter_gpio.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/board/pin_mux.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/HAL/LEDDriverInterface/LEDDriver.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_edma.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi_edma.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_lpspi.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_edma.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/peripherals.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/gpio/fsl_adapter_gpio.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/board/pin_mux.h:
 ../source/HAL/TimerModule/timer.h:
 ../source/HAL/TimerModule/../../Common/CommonDefs.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Middleware/LogManager/LogManager.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Middleware/LogManager/LogManager.h:
 ../source/HAL/RTC/RTC_Driver.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/common/CommonDefs.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/drivers/fsl_snvs_lp.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/common/CommonDefs.h:
 ../source/HAL/LEDDriverInterface/LEDDriver.h:
 ../source/Middleware/LogManager/LogManager.h:
 ../source/Middleware/MessageLayerParser/MessageProtocolParser.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/HALInterface/Ethernet/UdpHandler.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/HALInterface/Ethernet/UdpHandler.h:
 ../source/Middleware/MessageLayerParser/ReceivingMessageQueue.h:
 ../source/Middleware/MessageLayerParser/MessageData.h:
 ../source/Middleware/SessionManager/SessionManager.h:
@@ -752,13 +752,13 @@ source/MIMXRT1064_Project.o source/MIMXRT1064_Project.d: \
 ../source/application/MessageHandler/InitializationCommand/InitializationResponce.h:
 ../source/application/MessageHandler/MutualControlCommand/MutualControlRequest.h:
 ../source/application/MessageHandler/MutualControlCommand/MutualControlResponse.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/component/silicon_id/fsl_silicon_id.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/component/silicon_id/fsl_silicon_id.h:
 ../source/../lvgl/lvgl.h:
 ../source/../lvgl/lv_version.h:
 ../source/../lvgl/src/lv_init.h:
 ../source/../lvgl/src/lv_conf_internal.h:
 ../source/../lvgl/src/lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/usb/host/class/../../../source/application/DisplayController/lv_conf.h:
 ../source/../lvgl/src/misc/lv_types.h:
 ../source/../lvgl/src/misc/../lv_conf_internal.h:
 ../source/../lvgl/src/stdlib/lv_mem.h:

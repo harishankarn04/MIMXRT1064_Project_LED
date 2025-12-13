@@ -4,7 +4,7 @@ lvgl/src/font/lv_font_montserrat_10.o \
  ../lvgl/src/font/../../lv_version.h ../lvgl/src/font/../../src/lv_init.h \
  ../lvgl/src/font/../../src/lv_conf_internal.h \
  ../lvgl/src/font/../../src/lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/font/../../src/misc/lv_types.h \
  ../lvgl/src/font/../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/font/../../src/stdlib/lv_mem.h \
@@ -419,7 +419,7 @@ lvgl/src/font/lv_font_montserrat_10.o \
 ../lvgl/src/font/../../src/lv_init.h:
 ../lvgl/src/font/../../src/lv_conf_internal.h:
 ../lvgl/src/font/../../src/lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/font/../../src/misc/lv_types.h:
 ../lvgl/src/font/../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/font/../../src/stdlib/lv_mem.h:

@@ -4,7 +4,7 @@ lvgl/src/widgets/scale/lv_scale.o lvgl/src/widgets/scale/lv_scale.d: \
  ../lvgl/src/widgets/scale/lv_scale.h \
  ../lvgl/src/widgets/scale/../../lv_conf_internal.h \
  ../lvgl/src/widgets/scale/../../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/widgets/scale/../../core/lv_obj.h \
  ../lvgl/src/widgets/scale/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/scale/../../core/../misc/lv_types.h \
@@ -155,7 +155,7 @@ lvgl/src/widgets/scale/lv_scale.o lvgl/src/widgets/scale/lv_scale.d: \
 ../lvgl/src/widgets/scale/lv_scale.h:
 ../lvgl/src/widgets/scale/../../lv_conf_internal.h:
 ../lvgl/src/widgets/scale/../../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/widgets/scale/../../core/lv_obj.h:
 ../lvgl/src/widgets/scale/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/scale/../../core/../misc/lv_types.h:

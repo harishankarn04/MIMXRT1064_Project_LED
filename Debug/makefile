@@ -190,7 +190,7 @@ main-build: MIMXRT1064_Project_LED.axf
 MIMXRT1064_Project_LED.axf: $(OBJS) $(USER_OBJS) makefile $(OPTIONAL_TOOL_DEPS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/harfbuzz/lib" -L"/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/Freetype/lib" -Xlinker -Map="MIMXRT1064_Project_LED.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -Xlinker --sort-section=alignment -Xlinker --cref -mcpu=cortex-m7 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -T MIMXRT1064_Project_LED_Debug.ld -o "MIMXRT1064_Project_LED.axf" $(OBJS) $(USER_OBJS) $(LIBS) -lharfbuzz -lfreetype -lstdc++ -lm
+	arm-none-eabi-gcc -nostdlib -L"/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/harfbuzz/lib" -L"/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/Freetype/lib" -Xlinker -Map="MIMXRT1064_Project_LED.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -Xlinker --sort-section=alignment -Xlinker --cref -mcpu=cortex-m7 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -T MIMXRT1064_Project_LED_Debug.ld -o "MIMXRT1064_Project_LED.axf" $(OBJS) $(USER_OBJS) $(LIBS) -lharfbuzz -lfreetype -lstdc++ -lm
 	@echo 'Finished building target: $@'
 	@echo ' '
 

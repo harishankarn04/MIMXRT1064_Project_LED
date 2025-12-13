@@ -3,7 +3,7 @@ lvgl/src/layouts/lv_layout.o lvgl/src/layouts/lv_layout.d: \
  ../lvgl/src/layouts/lv_layout.h \
  ../lvgl/src/layouts/../lv_conf_internal.h \
  ../lvgl/src/layouts/../lv_conf_kconfig.h \
- /Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
+ /Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h \
  ../lvgl/src/layouts/../misc/lv_types.h \
  ../lvgl/src/layouts/../misc/../lv_conf_internal.h \
  ../lvgl/src/layouts/flex/lv_flex.h \
@@ -207,7 +207,7 @@ lvgl/src/layouts/lv_layout.o lvgl/src/layouts/lv_layout.d: \
 ../lvgl/src/layouts/lv_layout.h:
 ../lvgl/src/layouts/../lv_conf_internal.h:
 ../lvgl/src/layouts/../lv_conf_kconfig.h:
-/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
+/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/application/DisplayController/lv_conf.h:
 ../lvgl/src/layouts/../misc/lv_types.h:
 ../lvgl/src/layouts/../misc/../lv_conf_internal.h:
 ../lvgl/src/layouts/flex/lv_flex.h:
