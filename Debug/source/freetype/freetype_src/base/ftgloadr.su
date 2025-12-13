@@ -1,0 +1,11 @@
+../source/freetype/freetype_src/base/ftgloadr.c:69:3:FT_GlyphLoader_New	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:87:3:FT_GlyphLoader_Rewind	32	static
+../source/freetype/freetype_src/base/ftgloadr.c:105:3:FT_GlyphLoader_Reset	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:128:3:FT_GlyphLoader_Done	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:143:3:FT_GlyphLoader_Adjust_Points	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:166:3:FT_GlyphLoader_CreateExtra	32	static
+../source/freetype/freetype_src/base/ftgloadr.c:190:3:FT_GlyphLoader_Adjust_Subglyphs	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:205:3:FT_GlyphLoader_CheckPoints	64	static
+../source/freetype/freetype_src/base/ftgloadr.c:309:3:FT_GlyphLoader_CheckSubGlyphs	48	static
+../source/freetype/freetype_src/base/ftgloadr.c:340:3:FT_GlyphLoader_Prepare	24	static
+../source/freetype/freetype_src/base/ftgloadr.c:356:3:FT_GlyphLoader_Add	32	static

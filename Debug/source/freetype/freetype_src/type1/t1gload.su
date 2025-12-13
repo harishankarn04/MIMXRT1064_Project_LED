@@ -1,0 +1,6 @@
+../source/freetype/freetype_src/type1/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/type1/t1gload.c:42:3:T1_Parse_Glyph_And_Get_Char_String	1376	static
+../source/freetype/freetype_src/type1/t1gload.c:173:3:T1_Parse_Glyph	40	static
+../source/freetype/freetype_src/type1/t1gload.c:220:3:T1_Compute_Max_Advance	1576	static
+../source/freetype/freetype_src/type1/t1gload.c:284:3:T1_Get_Advances	1592	static
+../source/freetype/freetype_src/type1/t1gload.c:355:3:T1_Load_Glyph	1696	static

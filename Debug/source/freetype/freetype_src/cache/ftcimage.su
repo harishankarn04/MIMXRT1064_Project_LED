@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/cache/ftcimage.c:30:3:ftc_inode_free	24	static
+../source/freetype/freetype_src/cache/ftcimage.c:45:3:FTC_INode_Free	16	static
+../source/freetype/freetype_src/cache/ftcimage.c:54:3:FTC_INode_New	64	static
+../source/freetype/freetype_src/cache/ftcimage.c:91:3:ftc_inode_new	32	static
+../source/freetype/freetype_src/cache/ftcimage.c:104:3:ftc_inode_weight	40	static

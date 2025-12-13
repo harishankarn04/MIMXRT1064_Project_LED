@@ -1,0 +1,2 @@
+../source/application/MessageHandler/InitializationCommand/InitializationResponce.c:38:9:InitializationResponce_Encode	16	static
+../source/application/MessageHandler/InitializationCommand/InitializationResponce.c:60:6:InitializationResponce_Reset	8	static

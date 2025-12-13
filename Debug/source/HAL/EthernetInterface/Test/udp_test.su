@@ -1,0 +1,3 @@
+../source/HAL/EthernetInterface/Test/udp_test.c:67:13:UDPTestReceiveCallback	32	static
+../source/HAL/EthernetInterface/Test/udp_test.c:90:6:UDPTestinit	8	static
+../source/HAL/EthernetInterface/Test/udp_test.c:129:6:UDPTestHandler	152	static

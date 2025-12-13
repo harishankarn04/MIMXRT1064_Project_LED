@@ -1,0 +1,8 @@
+../source/freetype/freetype_src/sfnt/sfobjs.c:61:3:tt_name_ascii_from_utf16	48	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:96:3:tt_name_ascii_from_other	48	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:136:3:tt_face_get_name	88	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:294:3:sfnt_find_encoding	24	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:347:3:sfnt_open_font	64	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:495:3:sfnt_init_face	128	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:797:3:sfnt_load_face	160	static
+../source/freetype/freetype_src/sfnt/sfobjs.c:1444:3:sfnt_done_face	32	static

@@ -1,0 +1,13 @@
+../source/freetype/freetype_src/winfonts/winfnt.c:187:3:fnt_font_done	32	static
+../source/freetype/freetype_src/winfonts/winfnt.c:207:3:fnt_font_load	32	static
+../source/freetype/freetype_src/winfonts/winfnt.c:273:3:fnt_face_get_dll_font	216	static
+../source/freetype/freetype_src/winfonts/winfnt.c:626:3:fnt_cmap_init	32	static
+../source/freetype/freetype_src/winfonts/winfnt.c:645:3:fnt_cmap_char_index	24	static
+../source/freetype/freetype_src/winfonts/winfnt.c:662:3:fnt_cmap_char_next	32	static
+../source/freetype/freetype_src/winfonts/winfnt.c:707:3:FNT_Face_Done	24	static
+../source/freetype/freetype_src/winfonts/winfnt.c:726:3:FNT_Face_Init	96	static
+../source/freetype/freetype_src/winfonts/winfnt.c:944:3:FNT_Size_Select	24	static
+../source/freetype/freetype_src/winfonts/winfnt.c:965:3:FNT_Size_Request	40	static
+../source/freetype/freetype_src/winfonts/winfnt.c:1003:3:FNT_Load_Glyph	88	static
+../source/freetype/freetype_src/winfonts/winfnt.c:1135:3:winfnt_get_header	24	static
+../source/freetype/freetype_src/winfonts/winfnt.c:1166:3:winfnt_get_service	16	static

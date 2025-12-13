@@ -1,0 +1,4 @@
+../source/freetype/freetype_src/base/ftlcdfil.c:371:3:ft_lcd_padding	32	static
+../source/freetype/freetype_src/base/ftlcdfil.c:395:3:FT_Library_SetLcdFilterWeights	16	static
+../source/freetype/freetype_src/base/ftlcdfil.c:406:3:FT_Library_SetLcdFilter	16	static
+../source/freetype/freetype_src/base/ftlcdfil.c:419:3:FT_Library_SetLcdGeometry	16	static

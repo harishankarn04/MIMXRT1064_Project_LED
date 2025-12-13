@@ -1,0 +1,13 @@
+../source/freetype/freetype_src/cache/ftccache.c:48:3:ftc_node_mru_link	24	static
+../source/freetype/freetype_src/cache/ftccache.c:62:3:ftc_node_mru_unlink	24	static
+../source/freetype/freetype_src/cache/ftccache.c:111:3:ftc_cache_resize	72	static
+../source/freetype/freetype_src/cache/ftccache.c:218:3:ftc_node_hash_unlink	24	static
+../source/freetype/freetype_src/cache/ftccache.c:251:3:ftc_node_hash_link	24	static
+../source/freetype/freetype_src/cache/ftccache.c:267:3:ftc_node_destroy	24	static
+../source/freetype/freetype_src/cache/ftccache.c:322:3:ftc_cache_init	32	static
+../source/freetype/freetype_src/cache/ftccache.c:338:3:FTC_Cache_Init	16	static
+../source/freetype/freetype_src/cache/ftccache.c:345:3:ftc_cache_done	40	static
+../source/freetype/freetype_src/cache/ftccache.c:388:3:FTC_Cache_Done	16	static
+../source/freetype/freetype_src/cache/ftccache.c:395:3:ftc_cache_add	32	static
+../source/freetype/freetype_src/cache/ftccache.c:423:3:FTC_Cache_NewNode	48	static
+../source/freetype/freetype_src/cache/ftccache.c:543:3:FTC_Cache_RemoveFaceID	48	static

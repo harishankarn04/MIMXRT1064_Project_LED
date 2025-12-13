@@ -1,0 +1,10 @@
+../source/freetype/freetype_src/autofit/afshaper.c:598:3:af_shaper_get_coverage_nohb	24	static
+../source/freetype/freetype_src/autofit/afshaper.c:613:3:af_shaper_buf_create_nohb	16	static
+../source/freetype/freetype_src/autofit/afshaper.c:622:3:af_shaper_buf_destroy_nohb	16	static
+../source/freetype/freetype_src/autofit/afshaper.c:631:3:af_shaper_get_cluster_nohb	48	static
+../source/freetype/freetype_src/autofit/afshaper.c:667:3:af_shaper_get_elem_nohb	32	static
+../source/freetype/freetype_src/autofit/afshaper.c:697:3:af_shaper_get_coverage	24	static
+../source/freetype/freetype_src/autofit/afshaper.c:718:3:af_shaper_buf_create	16	static
+../source/freetype/freetype_src/autofit/afshaper.c:730:3:af_shaper_buf_destroy	16	static
+../source/freetype/freetype_src/autofit/afshaper.c:743:3:af_shaper_get_cluster	24	static
+../source/freetype/freetype_src/autofit/afshaper.c:758:3:af_shaper_get_elem	32	static

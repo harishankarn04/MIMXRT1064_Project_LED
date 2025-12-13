@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/sfnt/ttpost.c:159:3:load_format_20	72	static
+../source/freetype/freetype_src/sfnt/ttpost.c:268:3:load_format_25	56	static
+../source/freetype/freetype_src/sfnt/ttpost.c:324:3:load_post_names	48	static
+../source/freetype/freetype_src/sfnt/ttpost.c:362:3:tt_face_free_ps_names	24	static
+../source/freetype/freetype_src/sfnt/ttpost.c:410:3:tt_face_get_ps_name	48	static

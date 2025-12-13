@@ -1,0 +1,11 @@
+../source/freetype/freetype_src/psnames/pstables.h:4143:3:ft_get_adobe_glyph_index	56	static
+../source/freetype/freetype_src/psnames/psmodule.c:58:3:ps_unicode_value	64	static
+../source/freetype/freetype_src/psnames/psmodule.c:179:3:compare_uni_maps	32	static
+../source/freetype/freetype_src/psnames/psmodule.c:262:3:ps_check_extra_glyph_name	32	static
+../source/freetype/freetype_src/psnames/psmodule.c:289:3:ps_check_extra_glyph_unicode	24	static
+../source/freetype/freetype_src/psnames/psmodule.c:310:3:ps_unicodes_init	136	static
+../source/freetype/freetype_src/psnames/psmodule.c:409:3:ps_unicodes_char_index	40	static
+../source/freetype/freetype_src/psnames/psmodule.c:454:3:ps_unicodes_char_next	48	static
+../source/freetype/freetype_src/psnames/psmodule.c:519:3:ps_get_macintosh_name	16	static
+../source/freetype/freetype_src/psnames/psmodule.c:529:3:ps_get_standard_strings	16	static
+../source/freetype/freetype_src/psnames/psmodule.c:582:3:psnames_get_service	16	static

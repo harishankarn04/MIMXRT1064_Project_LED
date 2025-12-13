@@ -1,0 +1,2 @@
+../source/HAL/EthernetInterface/Test/tcp_test.c:52:6:TCPTestInit	16	static
+../source/HAL/EthernetInterface/Test/tcp_test.c:70:14:TestAcceptCallback	32	static

@@ -1,0 +1,3 @@
+../source/freetype/freetype_src/tools/vms_shorten_symbol.c:65:1:crc32	24	static
+../source/freetype/freetype_src/tools/vms_shorten_symbol.c:141:1:u32_to_base32	24	static
+../source/freetype/freetype_src/tools/vms_shorten_symbol.c:176:1:vms_shorten_symbol	56	static

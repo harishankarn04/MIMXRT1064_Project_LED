@@ -1,0 +1,2 @@
+../source/freetype/freetype_src/base/ftpsprop.c:38:3:ps_property_set	144	static
+../source/freetype/freetype_src/base/ftpsprop.c:230:3:ps_property_get	56	static

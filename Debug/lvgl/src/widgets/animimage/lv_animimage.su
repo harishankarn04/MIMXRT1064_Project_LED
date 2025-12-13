@@ -1,0 +1,17 @@
+../lvgl/src/widgets/animimage/lv_animimage.c:66:12:lv_animimg_create	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:74:6:lv_animimg_set_src	32	static
+../lvgl/src/widgets/animimage/lv_animimage.c:88:6:lv_animimg_start	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:95:6:lv_animimg_delete	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:106:6:lv_animimg_set_duration	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:114:6:lv_animimg_set_repeat_count	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:121:6:lv_animimg_set_playback_time	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:128:6:lv_animimg_set_playback_delay	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:135:6:lv_animimg_set_start_cb	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:142:6:lv_animimg_set_completed_cb	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:153:15:lv_animimg_get_src	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:160:9:lv_animimg_get_src_count	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:167:10:lv_animimg_get_duration	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:174:10:lv_animimg_get_repeat_count	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:181:13:lv_animimg_get_anim	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:192:13:lv_animimg_constructor	24	static
+../lvgl/src/widgets/animimage/lv_animimage.c:211:13:index_change	32	static

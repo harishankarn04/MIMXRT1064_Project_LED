@@ -1,0 +1,2 @@
+../source/application/DisplayController/lvgl_support.c:28:13:flushDisplay	80	static
+../source/application/DisplayController/lvgl_support.c:88:6:lv_port_disp_init	24	static

@@ -1,0 +1,13 @@
+../source/freetype/freetype_src/psaux/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/psaux/psintrp.c:67:3:cf2_hintmask_init	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:77:3:cf2_hintmask_isValid	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:84:3:cf2_hintmask_isNew	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:91:3:cf2_hintmask_setNew	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:102:3:cf2_hintmask_getMaskPtr	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:109:3:cf2_hintmask_setCounts	16	static
+../source/freetype/freetype_src/psaux/psintrp.c:132:3:cf2_hintmask_read	32	static
+../source/freetype/freetype_src/psaux/psintrp.c:174:3:cf2_hintmask_setAll	24	static
+../source/freetype/freetype_src/psaux/psintrp.c:282:3:cf2_doStems	72	static
+../source/freetype/freetype_src/psaux/psintrp.c:336:3:cf2_doFlex	144	static
+../source/freetype/freetype_src/psaux/psintrp.c:419:3:cf2_doBlend	64	static
+../source/freetype/freetype_src/psaux/psintrp.c:478:3:cf2_interpT2CharString	16776	static

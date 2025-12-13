@@ -1,0 +1,9 @@
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h:189:22:ARM_MPU_Enable	16	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/CMSIS/m-profile/armv7m_mpu.h:202:22:ARM_MPU_Disable	4	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1434:24:CLOCK_GetMux	16	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1486:24:CLOCK_GetDiv	16	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1547:24:CLOCK_GetOscFreq	4	static
+../board/board.c:26:10:BOARD_DebugConsoleSrcFreq	24	static
+../board/board.c:50:6:BOARD_InitHardware	8	static
+../board/board.c:59:6:BOARD_InitDebugConsole	16	static
+../board/board.c:264:6:BOARD_ConfigMPU	72	static

@@ -1,0 +1,16 @@
+../source/freetype/freetype_src/sfnt/../../freetype_include/freetype/internal/../internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:49:3:tt_face_load_sbit	72	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:260:3:tt_face_free_sbit	24	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:273:3:tt_face_set_sbit_strike	24	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:282:3:tt_face_load_strike_metrics	64	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:474:3:tt_sbit_decoder_init	40	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:537:3:tt_sbit_decoder_done	16	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:544:3:tt_sbit_decoder_alloc_bitmap	40	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:623:3:tt_sbit_decoder_load_metrics	32	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:690:3:tt_sbit_decoder_load_byte_aligned	88	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:835:3:tt_sbit_decoder_load_bit_aligned	88	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:968:3:tt_sbit_decoder_load_compound	64	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:1091:3:tt_sbit_decoder_load_bitmap	80	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:1241:3:tt_sbit_decoder_load_image	112	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:1453:3:tt_face_load_sbix_image	80	static
+../source/freetype/freetype_src/sfnt/ttsbit.c:1634:3:tt_face_load_sbit_image	120	static

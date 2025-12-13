@@ -1,0 +1,3 @@
+../source/freetype/freetype_src/autofit/afadjust.c:1149:3:af_adjustment_database_lookup	32	static
+../source/freetype/freetype_src/autofit/afadjust.c:1277:3:af_reverse_character_map_new	48	static
+../source/freetype/freetype_src/autofit/afadjust.c:1601:3:af_reverse_character_map_done	16	static

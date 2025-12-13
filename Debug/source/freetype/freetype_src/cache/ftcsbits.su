@@ -1,0 +1,8 @@
+../source/freetype/freetype_src/cache/ftcsbits.c:42:3:ftc_sbit_copy_bitmap	40	static
+../source/freetype/freetype_src/cache/ftcsbits.c:63:3:ftc_snode_free	32	static
+../source/freetype/freetype_src/cache/ftcsbits.c:82:3:FTC_SNode_Free	16	static
+../source/freetype/freetype_src/cache/ftcsbits.c:100:3:ftc_snode_load	80	static
+../source/freetype/freetype_src/cache/ftcsbits.c:213:3:FTC_SNode_New	64	static
+../source/freetype/freetype_src/cache/ftcsbits.c:273:3:ftc_snode_new	32	static
+../source/freetype/freetype_src/cache/ftcsbits.c:286:3:ftc_snode_weight	40	static
+../source/freetype/freetype_src/cache/ftcsbits.c:332:3:ftc_snode_compare	72	static

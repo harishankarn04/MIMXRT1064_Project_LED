@@ -1,0 +1,7 @@
+../source/freetype/freetype_src/cache/ftccmap.c:94:3:ftc_cmap_node_free	24	static
+../source/freetype/freetype_src/cache/ftccmap.c:107:3:ftc_cmap_node_new	48	static
+../source/freetype/freetype_src/cache/ftccmap.c:137:3:ftc_cmap_node_weight	16	static
+../source/freetype/freetype_src/cache/ftccmap.c:149:3:ftc_cmap_node_compare	40	static
+../source/freetype/freetype_src/cache/ftccmap.c:175:3:ftc_cmap_node_remove_faceid	32	static
+../source/freetype/freetype_src/cache/ftccmap.c:218:3:FTC_CMapCache_New	16	static
+../source/freetype/freetype_src/cache/ftccmap.c:230:3:FTC_CMapCache_Lookup	120	static

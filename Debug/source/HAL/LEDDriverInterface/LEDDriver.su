@@ -1,0 +1,15 @@
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1408:20:CLOCK_SetMux	24	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1461:20:CLOCK_SetDiv	24	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_clock.h:1596:24:CLOCK_GetCpuClkFreq	8	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_edma.h:348:20:EDMA_EnableMinorLoopMapping	16	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h:75:20:DMAMUX_EnableChannel	16	static
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/drivers/fsl_dmamux.h:110:20:DMAMUX_SetSource	24	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:79:6:LEDDriver_Init	16	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:144:6:LEDDriver_ConfigurePanel	40	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:244:6:LEDDriver_PrepareDisplayBuffer	32	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:261:6:LEDDriver_DisplayOnLED	8	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:287:13:InitializeRowAddressMap	16	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:325:23:BinaryToGray	16	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:337:13:LEDRowSelect	24	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:361:13:SPITransfer	8	static
+../source/HAL/LEDDriverInterface/LEDDriver.c:389:13:LPSPIMasterUserCallback	24	static

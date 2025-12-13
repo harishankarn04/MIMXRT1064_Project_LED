@@ -1,0 +1,12 @@
+/Users/harishankar/Documents/MCUXpressoIDE_25.6.136/MIMXRT1064_Project_LED/source/common/CommonDefs.h:30:24:swap16	16	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:104:6:MessageProtocolParser_Init	8	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:121:9:MessageProtocolParser_ReceiveMessage	1608	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:194:9:MessageProtocolParser_ParseHeader	96	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:380:16:BuildResponseHeader	56	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:437:9:MessageProtocolParser_SendResponse	1576	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:505:10:MessageProtocolParser_GetSessionId	24	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:524:10:MessageProtocolParser_GetMessageType	24	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:542:10:MessageProtocolParser_GetTransactionId	24	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:560:6:MessageProtocolParser_IsResponse	24	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:578:10:MessageProtocolParser_GetEquipmentType	24	static
+../source/Middleware/MessageLayerParser/MessageProtocolParser.c:596:10:MessageProtocolParser_GetSessionTimeout	24	static

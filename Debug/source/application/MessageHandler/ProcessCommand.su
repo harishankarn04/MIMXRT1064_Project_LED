@@ -1,0 +1,2 @@
+../source/application/MessageHandler/ProcessCommand.c:58:16:RouteCommand	40	static
+../source/application/MessageHandler/ProcessCommand.c:121:6:ProcessCommand_HandleRequest	24	static

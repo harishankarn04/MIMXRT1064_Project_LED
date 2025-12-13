@@ -1,0 +1,3 @@
+../source/HALInterface/Ethernet/UdpHandler.c:39:13:UdpHandler_ReceiveCallback	4696	static
+../source/HALInterface/Ethernet/UdpHandler.c:100:17:UdpHandler_InitServer	48	static
+../source/HALInterface/Ethernet/UdpHandler.c:147:6:UdpHandler_SendMessage	4672	static

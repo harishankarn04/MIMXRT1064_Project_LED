@@ -1,0 +1,8 @@
+../source/freetype/freetype_src/base/ftsystem.c:71:3:ft_alloc	16	static
+../source/freetype/freetype_src/base/ftsystem.c:105:3:ft_realloc	24	static
+../source/freetype/freetype_src/base/ftsystem.c:133:3:ft_free	16	static
+../source/freetype/freetype_src/base/ftsystem.c:177:3:ft_ansi_stream_close	16	static
+../source/freetype/freetype_src/base/ftsystem.c:214:3:ft_ansi_stream_io	32	static
+../source/freetype/freetype_src/base/ftsystem.c:242:3:FT_Stream_Open	24	static
+../source/freetype/freetype_src/base/ftsystem.c:305:3:FT_New_Memory	16	static
+../source/freetype/freetype_src/base/ftsystem.c:329:3:FT_Done_Memory	16	static

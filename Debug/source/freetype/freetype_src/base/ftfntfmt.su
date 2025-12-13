@@ -1,0 +1,2 @@
+../source/freetype/freetype_src/base/ftfntfmt.c:27:3:FT_Get_Font_Format	32	static
+../source/freetype/freetype_src/base/ftfntfmt.c:42:3:FT_Get_X11_Font_Format	32	static

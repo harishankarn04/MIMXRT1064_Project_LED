@@ -1,0 +1,3 @@
+../source/HAL/EthernetInterface/protocols/TftpClient.c:55:6:TFTPCLIENT_Start	136	static
+../source/HAL/EthernetInterface/protocols/TftpClient.c:119:13:SendAck	32	static
+../source/HAL/EthernetInterface/protocols/TftpClient.c:146:13:TftpClientReceive	40	static

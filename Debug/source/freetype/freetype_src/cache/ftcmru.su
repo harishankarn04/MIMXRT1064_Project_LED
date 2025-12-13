@@ -1,0 +1,9 @@
+../source/freetype/freetype_src/cache/ftcmru.c:28:3:FTC_MruNode_Prepend	24	static
+../source/freetype/freetype_src/cache/ftcmru.c:72:3:FTC_MruNode_Up	32	static
+../source/freetype/freetype_src/cache/ftcmru.c:121:3:FTC_MruNode_Remove	32	static
+../source/freetype/freetype_src/cache/ftcmru.c:168:3:FTC_MruList_Init	24	static
+../source/freetype/freetype_src/cache/ftcmru.c:184:3:FTC_MruList_Reset	16	static
+../source/freetype/freetype_src/cache/ftcmru.c:194:3:FTC_MruList_Done	16	static
+../source/freetype/freetype_src/cache/ftcmru.c:235:3:FTC_MruList_New	40	static
+../source/freetype/freetype_src/cache/ftcmru.c:300:3:FTC_MruList_Remove	24	static
+../source/freetype/freetype_src/cache/ftcmru.c:317:3:FTC_MruList_RemoveSelection	40	static

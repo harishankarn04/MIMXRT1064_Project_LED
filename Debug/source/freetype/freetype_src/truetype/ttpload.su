@@ -1,0 +1,10 @@
+../source/freetype/freetype_src/truetype/ttpload.c:63:3:tt_face_load_loca	64	static
+../source/freetype/freetype_src/truetype/ttpload.c:183:3:tt_face_get_location	48	static
+../source/freetype/freetype_src/truetype/ttpload.c:281:3:tt_face_done_loca	24	static
+../source/freetype/freetype_src/truetype/ttpload.c:312:3:tt_face_load_cvt	56	static
+../source/freetype/freetype_src/truetype/ttpload.c:395:3:tt_face_load_fpgm	32	static
+../source/freetype/freetype_src/truetype/ttpload.c:459:3:tt_face_load_prep	32	static
+../source/freetype/freetype_src/truetype/ttpload.c:503:3:compare_ppem	16	static
+../source/freetype/freetype_src/truetype/ttpload.c:530:3:tt_face_load_hdmx	64	static
+../source/freetype/freetype_src/truetype/ttpload.c:618:3:tt_face_free_hdmx	24	static
+../source/freetype/freetype_src/truetype/ttpload.c:636:3:tt_face_get_device_metrics	40	static

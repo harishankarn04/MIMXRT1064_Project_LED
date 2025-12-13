@@ -1,0 +1,11 @@
+../source/freetype/freetype_src/pshinter/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/pshinter/pshglob.c:41:3:psh_globals_scale_widths	48	static
+../source/freetype/freetype_src/pshinter/pshglob.c:139:3:psh_blues_set_zones_0	72	static
+../source/freetype/freetype_src/pshinter/pshglob.c:234:3:psh_blues_set_zones	88	static
+../source/freetype/freetype_src/pshinter/pshglob.c:366:3:psh_blues_scale_zones	72	static
+../source/freetype/freetype_src/pshinter/pshglob.c:527:3:psh_calc_max_height	32	static
+../source/freetype/freetype_src/pshinter/pshglob.c:548:3:psh_blues_snap_stem	48	static
+../source/freetype/freetype_src/pshinter/pshglob.c:619:3:psh_globals_destroy	24	static
+../source/freetype/freetype_src/pshinter/pshglob.c:645:3:psh_globals_new	96	static
+../source/freetype/freetype_src/pshinter/pshglob.c:754:3:psh_globals_set_scale	32	static
+../source/freetype/freetype_src/pshinter/pshglob.c:787:3:psh_globals_funcs_init	16	static

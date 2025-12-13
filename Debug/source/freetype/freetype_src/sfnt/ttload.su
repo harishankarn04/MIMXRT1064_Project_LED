@@ -1,0 +1,16 @@
+../source/freetype/freetype_src/sfnt/ttload.c:57:3:tt_face_lookup_table	24	static
+../source/freetype/freetype_src/sfnt/ttload.c:131:3:tt_face_goto_table	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:175:3:check_table_dir	72	static
+../source/freetype/freetype_src/sfnt/ttload.c:342:3:tt_face_load_font_dir	88	static
+../source/freetype/freetype_src/sfnt/ttload.c:569:3:tt_face_load_any	48	static
+../source/freetype/freetype_src/sfnt/ttload.c:656:3:tt_face_load_generic_header	40	static
+../source/freetype/freetype_src/sfnt/ttload.c:710:3:tt_face_load_head	16	static
+../source/freetype/freetype_src/sfnt/ttload.c:720:3:tt_face_load_bhed	16	static
+../source/freetype/freetype_src/sfnt/ttload.c:748:3:tt_face_load_maxp	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:858:3:tt_face_load_name	88	static
+../source/freetype/freetype_src/sfnt/ttload.c:1067:3:tt_face_free_name	40	static
+../source/freetype/freetype_src/sfnt/ttload.c:1125:3:tt_face_load_cmap	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:1163:3:tt_face_load_os2	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:1325:3:tt_face_load_post	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:1393:3:tt_face_load_pclt	32	static
+../source/freetype/freetype_src/sfnt/ttload.c:1456:3:tt_face_load_gasp	56	static

@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/autofit/afindic.c:31:3:af_indic_metrics_init	24	static
+../source/freetype/freetype_src/autofit/afindic.c:61:3:af_indic_metrics_scale	16	static
+../source/freetype/freetype_src/autofit/afindic.c:70:3:af_indic_hints_init	16	static
+../source/freetype/freetype_src/autofit/afindic.c:79:3:af_indic_hints_apply	24	static
+../source/freetype/freetype_src/autofit/afindic.c:93:3:af_indic_get_standard_widths	32	static

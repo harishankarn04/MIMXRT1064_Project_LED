@@ -1,0 +1,16 @@
+../lvgl/src/libs/freetype/../../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
+../lvgl/src/libs/freetype/lv_freetype.c:66:13:lv_freetype_init	56	static
+../lvgl/src/libs/freetype/lv_freetype.c:105:6:lv_freetype_uninit	16	static
+../lvgl/src/libs/freetype/lv_freetype.c:114:13:lv_freetype_font_create	104	static
+../lvgl/src/libs/freetype/lv_freetype.c:180:6:lv_freetype_font_delete	40	static
+../lvgl/src/libs/freetype/lv_freetype.c:199:25:lv_freetype_get_context	4	static
+../lvgl/src/libs/freetype/lv_freetype.c:204:6:lv_freetype_italic_transform	48	static
+../lvgl/src/libs/freetype/lv_freetype.c:215:9:lv_freetype_italic_transform_on_pos	16	static
+../lvgl/src/libs/freetype/lv_freetype.c:224:13:freetype_on_font_create	32	static
+../lvgl/src/libs/freetype/lv_freetype.c:259:13:freetype_on_font_set_cbs	16	static
+../lvgl/src/libs/freetype/lv_freetype.c:270:13:lv_freetype_cleanup	32	static
+../lvgl/src/libs/freetype/lv_freetype.c:284:19:lv_freetype_req_face_id	48	static
+../lvgl/src/libs/freetype/lv_freetype.c:327:13:lv_freetype_drop_face_id	40	static
+../lvgl/src/libs/freetype/lv_freetype.c:352:13:cache_node_cache_create_cb	40	static
+../lvgl/src/libs/freetype/lv_freetype.c:376:13:cache_node_cache_free_cb	16	static
+../lvgl/src/libs/freetype/lv_freetype.c:390:31:cache_node_cache_compare_cb	24	static

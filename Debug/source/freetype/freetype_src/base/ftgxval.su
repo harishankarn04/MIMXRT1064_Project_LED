@@ -1,0 +1,4 @@
+../source/freetype/freetype_src/base/ftgxval.c:36:3:FT_TrueTypeGX_Validate	48	static
+../source/freetype/freetype_src/base/ftgxval.c:73:3:FT_TrueTypeGX_Free	24	static
+../source/freetype/freetype_src/base/ftgxval.c:89:3:FT_ClassicKern_Validate	40	static
+../source/freetype/freetype_src/base/ftgxval.c:124:3:FT_ClassicKern_Free	24	static

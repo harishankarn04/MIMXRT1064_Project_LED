@@ -1,0 +1,14 @@
+../source/freetype/freetype_src/base/fttrigon.c:60:3:ft_trig_downscale	40	static
+../source/freetype/freetype_src/base/fttrigon.c:133:3:ft_trig_prenorm	32	static
+../source/freetype/freetype_src/base/fttrigon.c:163:3:ft_trig_pseudo_rotate	40	static
+../source/freetype/freetype_src/base/fttrigon.c:218:3:ft_trig_pseudo_polarize	48	static
+../source/freetype/freetype_src/base/fttrigon.c:297:3:FT_Cos	24	static
+../source/freetype/freetype_src/base/fttrigon.c:311:3:FT_Sin	24	static
+../source/freetype/freetype_src/base/fttrigon.c:325:3:FT_Tan	24	static
+../source/freetype/freetype_src/base/fttrigon.c:339:3:FT_Atan2	24	static
+../source/freetype/freetype_src/base/fttrigon.c:360:3:FT_Vector_Unit	16	static
+../source/freetype/freetype_src/base/fttrigon.c:377:3:FT_Vector_Rotate	32	static
+../source/freetype/freetype_src/base/fttrigon.c:417:3:FT_Vector_Length	32	static
+../source/freetype/freetype_src/base/fttrigon.c:454:3:FT_Vector_Polarize	40	static
+../source/freetype/freetype_src/base/fttrigon.c:484:3:FT_Vector_From_Polar	24	static
+../source/freetype/freetype_src/base/fttrigon.c:501:3:FT_Angle_Diff	24	static

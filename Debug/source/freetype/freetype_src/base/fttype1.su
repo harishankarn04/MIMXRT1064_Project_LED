@@ -1,0 +1,4 @@
+../source/freetype/freetype_src/base/fttype1.c:28:3:FT_Get_PS_Font_Info	32	static
+../source/freetype/freetype_src/base/fttype1.c:55:3:FT_Has_PS_Glyph_Names	32	static
+../source/freetype/freetype_src/base/fttype1.c:76:3:FT_Get_PS_Font_Private	32	static
+../source/freetype/freetype_src/base/fttype1.c:103:3:FT_Get_PS_Font_Value	56	static

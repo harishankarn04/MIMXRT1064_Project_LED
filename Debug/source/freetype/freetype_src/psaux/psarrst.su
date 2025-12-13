@@ -1,0 +1,9 @@
+../source/freetype/freetype_src/psaux/psarrst.c:56:3:cf2_arrstack_init	24	static
+../source/freetype/freetype_src/psaux/psarrst.c:75:3:cf2_arrstack_finalize	24	static
+../source/freetype/freetype_src/psaux/psarrst.c:94:3:cf2_arrstack_setNumElements	40	static
+../source/freetype/freetype_src/psaux/psarrst.c:139:3:cf2_arrstack_setCount	16	static
+../source/freetype/freetype_src/psaux/psarrst.c:157:3:cf2_arrstack_clear	16	static
+../source/freetype/freetype_src/psaux/psarrst.c:167:3:cf2_arrstack_size	16	static
+../source/freetype/freetype_src/psaux/psarrst.c:176:3:cf2_arrstack_getBuffer	16	static
+../source/freetype/freetype_src/psaux/psarrst.c:186:3:cf2_arrstack_getPointer	24	static
+../source/freetype/freetype_src/psaux/psarrst.c:211:3:cf2_arrstack_push	24	static

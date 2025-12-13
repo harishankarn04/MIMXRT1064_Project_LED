@@ -1,0 +1,3 @@
+../source/Middleware/LogManager/LogManager.c:51:6:LogManager_Init	4	static
+../source/Middleware/LogManager/LogManager.c:64:6:LogManager_SetThreshold	16	static
+../source/Middleware/LogManager/LogManager.c:84:6:LogManager_Log	84	static

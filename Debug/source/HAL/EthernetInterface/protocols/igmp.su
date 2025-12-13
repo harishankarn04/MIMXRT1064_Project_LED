@@ -1,0 +1,5 @@
+../source/HAL/EthernetInterface/protocols/igmp.c:42:7:IGMP_JoinGroup	24	static
+../source/HAL/EthernetInterface/protocols/igmp.c:73:7:IGMP_LeaveGroup	24	static
+../source/HAL/EthernetInterface/protocols/igmp.c:104:6:IGMP_MulticastUDPInit	32	static
+../source/HAL/EthernetInterface/protocols/igmp.c:160:6:IGMP_MulticastUDPSend	48	static
+../source/HAL/EthernetInterface/protocols/igmp.c:219:6:DefaultMulticastUDPReceive	24	static

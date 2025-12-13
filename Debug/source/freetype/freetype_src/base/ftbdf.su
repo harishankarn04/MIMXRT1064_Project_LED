@@ -1,0 +1,2 @@
+../source/freetype/freetype_src/base/ftbdf.c:27:3:FT_Get_BDF_Charset_ID	48	static
+../source/freetype/freetype_src/base/ftbdf.c:61:3:FT_Get_BDF_Property	40	static

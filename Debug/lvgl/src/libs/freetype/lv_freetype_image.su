@@ -1,0 +1,7 @@
+../lvgl/src/libs/freetype/lv_freetype_image.c:59:14:lv_freetype_create_draw_data_image	40	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:74:6:lv_freetype_set_cbs_image_font	32	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:85:21:freetype_get_glyph_bitmap_cb	72	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:109:13:freetype_image_release_cb	40	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:121:13:freetype_image_create_cb	56	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:171:13:freetype_image_free_cb	16	static
+../lvgl/src/libs/freetype/lv_freetype_image.c:176:31:freetype_image_compare_cb	16	static

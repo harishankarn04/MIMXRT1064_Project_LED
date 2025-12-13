@@ -1,0 +1,9 @@
+../source/freetype/freetype_src/cff/cffcmap.c:35:3:cff_cmap_encoding_init	32	static
+../source/freetype/freetype_src/cff/cffcmap.c:53:3:cff_cmap_encoding_done	24	static
+../source/freetype/freetype_src/cff/cffcmap.c:63:3:cff_cmap_encoding_char_index	24	static
+../source/freetype/freetype_src/cff/cffcmap.c:78:3:cff_cmap_encoding_char_next	32	static
+../source/freetype/freetype_src/cff/cffcmap.c:127:3:cff_sid_to_glyph_name	32	static
+../source/freetype/freetype_src/cff/cffcmap.c:141:3:cff_cmap_unicode_init	56	static
+../source/freetype/freetype_src/cff/cffcmap.c:172:3:cff_cmap_unicode_done	32	static
+../source/freetype/freetype_src/cff/cffcmap.c:185:3:cff_cmap_unicode_char_index	32	static
+../source/freetype/freetype_src/cff/cffcmap.c:199:3:cff_cmap_unicode_char_next	32	static

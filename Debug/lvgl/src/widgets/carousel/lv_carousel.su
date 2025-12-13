@@ -1,0 +1,9 @@
+../lvgl/src/widgets/carousel/lv_carousel.c:63:12:lv_carousel_create	24	static
+../lvgl/src/widgets/carousel/lv_carousel.c:75:12:lv_carousel_add_element	24	static
+../lvgl/src/widgets/carousel/lv_carousel.c:99:6:lv_carousel_set_element_width	24	static
+../lvgl/src/widgets/carousel/lv_carousel.c:105:6:lv_obj_set_element	48	static
+../lvgl/src/widgets/carousel/lv_carousel.c:122:6:lv_obj_set_element_id	56	static
+../lvgl/src/widgets/carousel/lv_carousel.c:146:12:lv_carousel_get_element_active	24	static
+../lvgl/src/widgets/carousel/lv_carousel.c:156:13:lv_carousel_constructor	24	static
+../lvgl/src/widgets/carousel/lv_carousel.c:170:13:lv_carousel_element_constructor	32	static
+../lvgl/src/widgets/carousel/lv_carousel.c:186:13:carousel_event_cb	72	static

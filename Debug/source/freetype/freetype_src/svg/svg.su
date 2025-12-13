@@ -1,0 +1,9 @@
+../source/freetype/freetype_src/svg/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/svg/ftsvg.c:43:3:ft_svg_init	24	static
+../source/freetype/freetype_src/svg/ftsvg.c:58:3:ft_svg_done	24	static
+../source/freetype/freetype_src/svg/ftsvg.c:72:3:ft_svg_preset_slot	56	static
+../source/freetype/freetype_src/svg/ftsvg.c:100:3:ft_svg_render	72	static
+../source/freetype/freetype_src/svg/ftsvg.c:161:3:ft_svg_property_set	48	static
+../source/freetype/freetype_src/svg/ftsvg.c:209:3:ft_svg_property_get	48	static
+../source/freetype/freetype_src/svg/ftsvg.c:245:3:ft_svg_get_interface	24	static
+../source/freetype/freetype_src/svg/ftsvg.c:262:3:ft_svg_transform	112	static

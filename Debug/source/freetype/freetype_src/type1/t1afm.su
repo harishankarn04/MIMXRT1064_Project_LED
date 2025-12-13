@@ -1,0 +1,7 @@
+../source/freetype/freetype_src/type1/t1afm.c:39:3:T1_Done_Metrics	16	static
+../source/freetype/freetype_src/type1/t1afm.c:54:3:t1_get_index	40	static
+../source/freetype/freetype_src/type1/t1afm.c:87:3:compare_kern_pairs	32	static
+../source/freetype/freetype_src/type1/t1afm.c:108:3:T1_Read_PFM	72	static
+../source/freetype/freetype_src/type1/t1afm.c:229:3:T1_Read_Metrics	72	static
+../source/freetype/freetype_src/type1/t1afm.c:328:3:T1_Get_Kerning	48	static
+../source/freetype/freetype_src/type1/t1afm.c:369:3:T1_Get_Track_Kerning	40	static

@@ -1,0 +1,4 @@
+../source/freetype/freetype_src/cff/../../freetype_include/freetype/internal/../internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/cff/cffgload.c:52:3:cff_get_glyph_data	40	static
+../source/freetype/freetype_src/cff/cffgload.c:88:3:cff_free_glyph_data	40	static
+../source/freetype/freetype_src/cff/cffgload.c:202:3:cff_slot_load	1680	static

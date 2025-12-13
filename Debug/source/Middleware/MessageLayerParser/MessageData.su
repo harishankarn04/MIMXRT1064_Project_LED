@@ -1,0 +1,11 @@
+../source/Middleware/MessageLayerParser/MessageData.c:60:6:MessageData_Init	8	static
+../source/Middleware/MessageLayerParser/MessageData.c:73:6:MessageData_SetFields	16	static
+../source/Middleware/MessageLayerParser/MessageData.c:98:9:MessageData_GetEquipmentAddress	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:108:9:MessageData_GetOrigin	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:118:9:MessageData_GetVersion	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:128:10:MessageData_GetChannelNumber	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:138:9:MessageData_GetExtendedAddress	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:148:10:MessageData_GetRequestNumber	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:158:10:MessageData_GetDataLength	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:168:16:MessageData_GetPayloadPointer	4	static
+../source/Middleware/MessageLayerParser/MessageData.c:180:6:MessageData_SetOrigin	16	static

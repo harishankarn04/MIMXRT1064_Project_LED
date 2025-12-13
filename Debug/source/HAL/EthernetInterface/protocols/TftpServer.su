@@ -1,0 +1,5 @@
+../source/HAL/EthernetInterface/protocols/TftpServer.c:77:13:TFTP_ServerInit	16	static
+../source/HAL/EthernetInterface/protocols/TftpServer.c:109:13:SendError	552	static
+../source/HAL/EthernetInterface/protocols/TftpServer.c:139:13:SendDataBlock	560	static
+../source/HAL/EthernetInterface/protocols/TftpServer.c:185:13:SendAck	32	static
+../source/HAL/EthernetInterface/protocols/TftpServer.c:209:13:TftpReceive	192	static

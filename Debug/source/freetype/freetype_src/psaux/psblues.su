@@ -1,0 +1,3 @@
+../source/freetype/freetype_src/psaux/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/psaux/psblues.c:58:3:cf2_blues_init	104	static
+../source/freetype/freetype_src/psaux/psblues.c:453:3:cf2_blues_capture	48	static

@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/pshinter/pshmod.c:40:3:ps_hinter_done	24	static
+../source/freetype/freetype_src/pshinter/pshmod.c:54:3:ps_hinter_init	32	static
+../source/freetype/freetype_src/pshinter/pshmod.c:78:3:pshinter_get_globals_funcs	16	static
+../source/freetype/freetype_src/pshinter/pshmod.c:86:3:pshinter_get_t1_funcs	16	static
+../source/freetype/freetype_src/pshinter/pshmod.c:94:3:pshinter_get_t2_funcs	16	static

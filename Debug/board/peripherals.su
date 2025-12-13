@@ -1,0 +1,5 @@
+../board/peripherals.c:151:23:createAdapterGpioPinConfig	32	static
+../board/peripherals.c:187:13:BOARD_GPIO1_init	16	static
+../board/peripherals.c:281:13:BOARD_GPIO8_init	16	static
+../board/peripherals.c:299:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:313:6:BOARD_InitBootPeripherals	8	static

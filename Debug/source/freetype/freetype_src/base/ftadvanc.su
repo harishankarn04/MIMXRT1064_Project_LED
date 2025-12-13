@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/base/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/base/ftadvanc.c:26:3:ft_face_scale_advances_	40	static
+../source/freetype/freetype_src/base/ftadvanc.c:58:3:ft_load_advances	40	static
+../source/freetype/freetype_src/base/ftadvanc.c:106:3:FT_Get_Advance	48	static
+../source/freetype/freetype_src/base/ftadvanc.c:147:3:FT_Get_Advances	56	static

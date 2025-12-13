@@ -1,0 +1,10 @@
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:49:9:FBM_Init	24	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:120:6:FBM_DeinitializeSystem	16	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:153:11:FBM_GetActiveFrontBuffer	8	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:167:11:FBM_GetActiveRearBuffer	8	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:184:11:FBM_GetReserveFrontBuffer	8	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:197:11:FBM_GetReserveRearBuffer	8	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:213:6:FBM_SwapBuffers	16	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:241:6:FBM_FreeBuffer	24	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:269:6:FBM_ClearBuffer	24	static
+../source/Middleware/FrameBufferManager/FrameBufferManager.c:296:18:AllocateBuffer	32	static

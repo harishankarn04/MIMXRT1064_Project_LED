@@ -1,0 +1,5 @@
+../source/freetype/freetype_src/raster/ftrend1.c:30:3:ft_raster1_init	24	static
+../source/freetype/freetype_src/raster/ftrend1.c:43:3:ft_raster1_set_mode	24	static
+../source/freetype/freetype_src/raster/ftrend1.c:56:3:ft_raster1_transform	32	static
+../source/freetype/freetype_src/raster/ftrend1.c:83:3:ft_raster1_get_cbox	24	static
+../source/freetype/freetype_src/raster/ftrend1.c:96:3:ft_raster1_render	104	static

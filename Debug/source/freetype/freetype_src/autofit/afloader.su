@@ -1,0 +1,7 @@
+../source/freetype/freetype_src/autofit/../../freetype_include/freetype/internal/../internal/ftcalc.h:91:3:FT_MulFix_64	56	static
+../source/freetype/freetype_src/autofit/afloader.c:31:3:af_loader_init	16	static
+../source/freetype/freetype_src/autofit/afloader.c:43:3:af_loader_reset	32	static
+../source/freetype/freetype_src/autofit/afloader.c:70:3:af_loader_done	16	static
+../source/freetype/freetype_src/autofit/afloader.c:87:3:af_loader_embolden_glyph_in_slot	104	static
+../source/freetype/freetype_src/autofit/afloader.c:208:3:af_loader_load_glyph	192	static
+../source/freetype/freetype_src/autofit/afloader.c:584:3:af_loader_compute_darkening	136	static

@@ -1,0 +1,12 @@
+../source/freetype/freetype_src/cache/ftcbasic.c:70:3:ftc_basic_family_compare	24	static
+../source/freetype/freetype_src/cache/ftcbasic.c:82:3:ftc_basic_family_init	48	static
+../source/freetype/freetype_src/cache/ftcbasic.c:98:3:ftc_basic_family_get_count	32	static
+../source/freetype/freetype_src/cache/ftcbasic.c:131:3:ftc_basic_family_load_bitmap	40	static
+../source/freetype/freetype_src/cache/ftcbasic.c:159:3:ftc_basic_family_load_glyph	48	static
+../source/freetype/freetype_src/cache/ftcbasic.c:208:3:ftc_basic_gnode_compare_faceid	40	static
+../source/freetype/freetype_src/cache/ftcbasic.c:276:3:FTC_ImageCache_New	16	static
+../source/freetype/freetype_src/cache/ftcbasic.c:287:3:FTC_ImageCache_Lookup	152	static
+../source/freetype/freetype_src/cache/ftcbasic.c:350:3:FTC_ImageCache_LookupScaler	152	static
+../source/freetype/freetype_src/cache/ftcbasic.c:454:3:FTC_SBitCache_New	16	static
+../source/freetype/freetype_src/cache/ftcbasic.c:465:3:FTC_SBitCache_Lookup	152	static
+../source/freetype/freetype_src/cache/ftcbasic.c:533:3:FTC_SBitCache_LookupScaler	152	static
