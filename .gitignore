@@ -1,3 +1,9 @@
+# Ignore build and debug directories
+/debug/
+/out/
+/*.elf
+/*.bin
+/*.hex
 .settings
 /Debug/
 .settings/language.settings.xml
