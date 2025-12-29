@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/sfnt/sfwoff.c:60:3:sfnt_stream_close	24	static
-../source/freetype/freetype_src/sfnt/sfwoff.c:73:3:compare_offsets	32	static
-../source/freetype/freetype_src/sfnt/sfwoff.c:96:3:woff_open_font	144	static

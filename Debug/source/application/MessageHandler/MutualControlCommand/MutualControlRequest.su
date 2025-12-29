@@ -1,3 +1,0 @@
-../source/application/MessageHandler/MutualControlCommand/MutualControlRequest.c:48:9:MutualControlRequest_Decode	32	static
-../source/application/MessageHandler/MutualControlCommand/MutualControlRequest.c:76:6:MutualControlRequest_Reset	8	static
-../source/application/MessageHandler/MutualControlCommand/MutualControlRequest.c:96:9:MutualControlRequest_GetValues	24	static

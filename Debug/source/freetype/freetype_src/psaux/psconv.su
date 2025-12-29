@@ -1,5 +1,0 @@
-../source/freetype/freetype_src/psaux/psconv.c:83:3:PS_Conv_Strtol	48	static
-../source/freetype/freetype_src/psaux/psconv.c:161:3:PS_Conv_ToInt	32	static
-../source/freetype/freetype_src/psaux/psconv.c:195:3:PS_Conv_ToFixed	56	static
-../source/freetype/freetype_src/psaux/psconv.c:464:3:PS_Conv_ASCIIHexDecode	48	static
-../source/freetype/freetype_src/psaux/psconv.c:557:3:PS_Conv_EexecDecode	48	static

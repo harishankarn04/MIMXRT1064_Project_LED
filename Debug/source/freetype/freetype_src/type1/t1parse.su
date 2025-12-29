@@ -1,5 +1,0 @@
-../source/freetype/freetype_src/type1/t1parse.c:69:3:read_pfb_tag	40	static
-../source/freetype/freetype_src/type1/t1parse.c:97:3:check_type1_format	40	static
-../source/freetype/freetype_src/type1/t1parse.c:135:3:T1_New_Parser	48	static
-../source/freetype/freetype_src/type1/t1parse.c:243:3:T1_Finalize_Parser	24	static
-../source/freetype/freetype_src/type1/t1parse.c:260:3:T1_Get_Private_Dict	80	static

@@ -1,13 +1,27 @@
-# Ignore build and debug directories
-/debug/
-/Debug/
-/out/
-/*.elf
-/*.bin
-/*.hex
-.settings
-/Debug/
-.settings/language.settings.xml
-/build/
+# Build outputs
+Debug/
+Release/
+build/
+*.axf
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.su
 
+# IDE temporary/cache files (but keep project configs)
+.settings/
+.metadata/
 
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db

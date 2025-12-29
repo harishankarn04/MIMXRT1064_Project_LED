@@ -1,6 +1,0 @@
-/Users/harishankar/Documents/gitClone/MIMXRT1064_Project_LED/source/common/CommonDefs.h:30:24:swap16	16	static
-../source/application/MessageHandler/InitializationCommand/InitializationRequest.c:55:9:InitializationRequest_Decode	32	static
-../source/application/MessageHandler/InitializationCommand/InitializationRequest.c:100:6:InitializationRequest_Reset	8	static
-../source/application/MessageHandler/InitializationCommand/InitializationRequest.c:111:9:InitializationRequest_GetMaxWatchdog	24	static
-../source/application/MessageHandler/InitializationCommand/InitializationRequest.c:128:9:InitializationRequest_GetLedIntensity	24	static
-../source/application/MessageHandler/InitializationCommand/InitializationRequest.c:147:9:InitializationRequest_GetAmbientThreshold	24	static

@@ -1,6 +1,0 @@
-../source/freetype/freetype_src/sfnt/ttsvg.c:76:3:tt_face_load_svg	56	static
-../source/freetype/freetype_src/sfnt/ttsvg.c:145:3:tt_face_free_svg	32	static
-../source/freetype/freetype_src/sfnt/ttsvg.c:173:3:extract_svg_doc	32	static
-../source/freetype/freetype_src/sfnt/ttsvg.c:189:3:compare_svg_doc	24	static
-../source/freetype/freetype_src/sfnt/ttsvg.c:202:3:find_doc	104	static
-../source/freetype/freetype_src/sfnt/ttsvg.c:286:3:tt_face_load_svg_doc	96	static

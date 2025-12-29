@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/psaux/../../freetype_include/freetype/internal/ftcalc.h:91:3:FT_MulFix_64	56	static
-../source/freetype/freetype_src/psaux/psfont.c:51:3:cf2_computeDarkening	112	static
-../source/freetype/freetype_src/psaux/psfont.c:241:3:cf2_font_setup	96	static
-../source/freetype/freetype_src/psaux/psfont.c:486:3:cf2_getGlyphOutline	64	static

@@ -1,2 +1,0 @@
-../source/freetype/freetype_src/psaux/psread.c:80:3:cf2_buf_readByte	16	static
-../source/freetype/freetype_src/psaux/psread.c:106:3:cf2_buf_isEnd	16	static

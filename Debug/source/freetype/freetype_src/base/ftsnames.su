@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/base/ftsnames.c:34:3:FT_Get_Sfnt_Name_Count	16	static
-../source/freetype/freetype_src/base/ftsnames.c:43:3:FT_Get_Sfnt_Name	56	static
-../source/freetype/freetype_src/base/ftsnames.c:94:3:FT_Get_Sfnt_LangTag	56	static

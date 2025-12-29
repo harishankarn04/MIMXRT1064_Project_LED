@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/sfnt/ttcpal.c:74:3:tt_face_load_cpal	88	static
-../source/freetype/freetype_src/sfnt/ttcpal.c:244:3:tt_face_free_cpal	32	static
-../source/freetype/freetype_src/sfnt/ttcpal.c:261:3:tt_face_palette_set	40	static

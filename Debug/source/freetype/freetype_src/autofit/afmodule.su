@@ -1,7 +1,0 @@
-../source/freetype/freetype_src/autofit/afmodule.c:73:3:af_property_get_face_globals	32	static
-../source/freetype/freetype_src/autofit/afmodule.c:105:3:af_property_set	152	static
-../source/freetype/freetype_src/autofit/afmodule.c:286:3:af_property_get	80	static
-../source/freetype/freetype_src/autofit/afmodule.c:387:3:af_get_interface	16	static
-../source/freetype/freetype_src/autofit/afmodule.c:397:3:af_autofitter_init	24	static
-../source/freetype/freetype_src/autofit/afmodule.c:425:3:af_autofitter_done	16	static
-../source/freetype/freetype_src/autofit/afmodule.c:442:3:af_autofitter_load_glyph	6808	static

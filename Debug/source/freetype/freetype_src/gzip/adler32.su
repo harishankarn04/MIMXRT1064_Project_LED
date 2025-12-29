@@ -1,5 +1,0 @@
-../source/freetype/freetype_src/gzip/adler32.c:61:15:adler32_z	32	static
-../source/freetype/freetype_src/gzip/adler32.c:128:15:adler32	24	static
-../source/freetype/freetype_src/gzip/adler32.c:135:13:adler32_combine_	40	static
-../source/freetype/freetype_src/gzip/adler32.c:160:15:adler32_combine	24	static
-../source/freetype/freetype_src/gzip/adler32.c:164:15:adler32_combine64	24	static

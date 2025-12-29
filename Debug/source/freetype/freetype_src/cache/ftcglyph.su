@@ -1,8 +1,0 @@
-../source/freetype/freetype_src/cache/ftcglyph.c:30:3:FTC_GNode_Init	24	static
-../source/freetype/freetype_src/cache/ftcglyph.c:41:3:FTC_GNode_UnselectFamily	24	static
-../source/freetype/freetype_src/cache/ftcglyph.c:54:3:FTC_GNode_Done	16	static
-../source/freetype/freetype_src/cache/ftcglyph.c:65:3:ftc_gnode_compare	32	static
-../source/freetype/freetype_src/cache/ftcglyph.c:91:3:FTC_Family_Init	24	static
-../source/freetype/freetype_src/cache/ftcglyph.c:104:3:ftc_gcache_init	40	static
-../source/freetype/freetype_src/cache/ftcglyph.c:138:3:ftc_gcache_done	24	static
-../source/freetype/freetype_src/cache/ftcglyph.c:160:3:FTC_GCache_New	24	static

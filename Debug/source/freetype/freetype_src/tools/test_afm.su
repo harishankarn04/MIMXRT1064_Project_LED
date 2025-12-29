@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/tools/test_afm.c:9:8:dump_fontinfo	88	static
-../source/freetype/freetype_src/tools/test_afm.c:64:3:dummy_get_index	24	static
-../source/freetype/freetype_src/tools/test_afm.c:75:3:parse_afm	64	static
-../source/freetype/freetype_src/tools/test_afm.c:110:7:main	112	static

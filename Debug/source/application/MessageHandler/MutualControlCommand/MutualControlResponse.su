@@ -1,2 +1,0 @@
-../source/application/MessageHandler/MutualControlCommand/MutualControlResponse.c:38:9:MutualControlResponse_Encode	24	static
-../source/application/MessageHandler/MutualControlCommand/MutualControlResponse.c:57:6:MutualControlResponse_Reset	8	static

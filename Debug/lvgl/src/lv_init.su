@@ -1,6 +1,0 @@
-../lvgl/src/others/sysmon/../../others/observer/../../core/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	16	static
-../lvgl/src/lv_init.c:100:20:lv_global_init	32	static
-../lvgl/src/lv_init.c:132:20:lv_cleanup_devices	32	static
-../lvgl/src/lv_init.c:143:6:lv_is_initialized	4	static
-../lvgl/src/lv_init.c:153:6:lv_init	48	static
-../lvgl/src/lv_init.c:350:6:lv_deinit	16	static

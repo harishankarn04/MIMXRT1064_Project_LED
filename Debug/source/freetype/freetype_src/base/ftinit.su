@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/base/ftinit.c:80:3:FT_Add_Default_Modules	24	static
-../source/freetype/freetype_src/base/ftinit.c:112:3:FT_Set_Default_Properties	432	static
-../source/freetype/freetype_src/base/ftinit.c:199:3:FT_Init_FreeType	24	static
-../source/freetype/freetype_src/base/ftinit.c:239:3:FT_Done_FreeType	24	static

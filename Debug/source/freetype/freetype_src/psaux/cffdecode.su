@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/psaux/cffdecode.c:402:3:cff_compute_bias	24	static
-../source/freetype/freetype_src/psaux/cffdecode.c:422:3:cff_lookup_glyph_by_stdcharcode	32	static
-../source/freetype/freetype_src/psaux/cffdecode.c:2318:3:cff_decoder_init	40	static
-../source/freetype/freetype_src/psaux/cffdecode.c:2354:3:cff_decoder_prepare	56	static

@@ -1,6 +1,0 @@
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:54:14:lv_freetype_create_glyph_cache	40	static
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:69:6:lv_freetype_set_cbs_glyph	32	static
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:79:13:freetype_get_glyph_dsc_cb	96	static
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:127:13:freetype_glyph_create_cb	64	static
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:184:13:freetype_glyph_free_cb	16	static
-../lvgl/src/libs/freetype/lv_freetype_glyph.c:189:31:freetype_glyph_compare_cb	16	static

@@ -1,2 +1,0 @@
-../source/freetype/freetype_src/autofit/afdummy.c:26:3:af_dummy_hints_init	16	static
-../source/freetype/freetype_src/autofit/afdummy.c:41:3:af_dummy_hints_apply	32	static

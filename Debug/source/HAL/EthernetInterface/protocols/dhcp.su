@@ -1,2 +1,0 @@
-../source/HAL/EthernetInterface/protocols/dhcp.c:52:6:DHCP_Init	24	static
-../source/HAL/EthernetInterface/protocols/dhcp.c:110:6:DHCP_PrintState	24	static

@@ -1,2 +1,0 @@
-../source/freetype/freetype_src/base/ftpatent.c:30:3:FT_Face_CheckTrueTypePatents	16	static
-../source/freetype/freetype_src/base/ftpatent.c:41:3:FT_Face_SetUnpatentedHinting	16	static

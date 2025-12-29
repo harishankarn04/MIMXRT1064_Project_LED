@@ -1,8 +1,0 @@
-../source/freetype/freetype_src/base/ftbbox.c:85:3:BBox_Move_To	24	static
-../source/freetype/freetype_src/base/ftbbox.c:122:3:BBox_Line_To	24	static
-../source/freetype/freetype_src/base/ftbbox.c:162:3:BBox_Conic_Check	24	static
-../source/freetype/freetype_src/base/ftbbox.c:214:3:BBox_Conic_To	48	static
-../source/freetype/freetype_src/base/ftbbox.c:275:3:cubic_peak	32	static
-../source/freetype/freetype_src/base/ftbbox.c:368:3:BBox_Cubic_Check	32	static
-../source/freetype/freetype_src/base/ftbbox.c:422:3:BBox_Cubic_To	48	static
-../source/freetype/freetype_src/base/ftbbox.c:473:3:FT_Outline_Get_BBox	96	static

@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/base/ftcolor.c:34:3:FT_Palette_Data_Get	24	static
-../source/freetype/freetype_src/base/ftcolor.c:54:3:FT_Palette_Select	40	static
-../source/freetype/freetype_src/base/ftcolor.c:95:3:FT_Palette_Set_Foreground_Color	24	static

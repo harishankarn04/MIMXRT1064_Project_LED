@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/sfnt/ttkern.c:42:3:tt_face_load_kern	96	static
-../source/freetype/freetype_src/sfnt/ttkern.c:171:3:tt_face_done_kern	24	static
-../source/freetype/freetype_src/sfnt/ttkern.c:185:3:tt_face_get_kerning	104	static

@@ -1,2 +1,0 @@
-../source/HAL/EthernetInterface/protocols/udp.c:48:17:UDP_ServerInit	32	static
-../source/HAL/EthernetInterface/protocols/udp.c:87:7:UDP_Send	32	static

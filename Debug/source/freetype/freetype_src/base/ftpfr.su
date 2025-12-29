@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/base/ftpfr.c:25:3:ft_pfr_check	32	static
-../source/freetype/freetype_src/base/ftpfr.c:40:3:FT_Get_PFR_Metrics	56	static
-../source/freetype/freetype_src/base/ftpfr.c:97:3:FT_Get_PFR_Kerning	48	static
-../source/freetype/freetype_src/base/ftpfr.c:126:3:FT_Get_PFR_Advance	32	static

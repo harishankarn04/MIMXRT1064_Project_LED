@@ -1,5 +1,0 @@
-../source/freetype/freetype_src/gzip/zutil.c:29:22:zlibVersion	4	static
-../source/freetype/freetype_src/gzip/zutil.c:33:15:zlibCompileFlags	16	static
-../source/freetype/freetype_src/gzip/zutil.c:133:22:zError	16	static
-../source/freetype/freetype_src/gzip/zutil.c:292:22:zcalloc	24	static
-../source/freetype/freetype_src/gzip/zutil.c:298:20:zcfree	16	static

@@ -1,5 +1,0 @@
-../source/freetype/freetype_src/autofit/afglobal.c:131:3:af_face_globals_compute_style_coverage	80	static
-../source/freetype/freetype_src/autofit/afglobal.c:331:3:af_face_globals_new	40	static
-../source/freetype/freetype_src/autofit/afglobal.c:397:3:af_face_globals_free	40	static
-../source/freetype/freetype_src/autofit/afglobal.c:444:3:af_face_globals_get_metrics	48	static
-../source/freetype/freetype_src/autofit/afglobal.c:527:3:af_face_globals_is_digit	16	static

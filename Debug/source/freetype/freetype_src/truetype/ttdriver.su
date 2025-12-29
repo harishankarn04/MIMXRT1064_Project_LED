@@ -1,8 +1,0 @@
-../source/freetype/freetype_src/truetype/ttdriver.c:61:3:tt_property_set	48	static
-../source/freetype/freetype_src/truetype/ttdriver.c:123:3:tt_property_get	40	static
-../source/freetype/freetype_src/truetype/ttdriver.c:207:3:tt_get_kerning	32	static
-../source/freetype/freetype_src/truetype/ttdriver.c:240:3:tt_get_advances	48	static
-../source/freetype/freetype_src/truetype/ttdriver.c:312:3:tt_size_select	40	static
-../source/freetype/freetype_src/truetype/ttdriver.c:349:3:tt_size_request	48	static
-../source/freetype/freetype_src/truetype/ttdriver.c:448:3:tt_glyph_load	40	static
-../source/freetype/freetype_src/truetype/ttdriver.c:617:3:tt_get_interface	32	static

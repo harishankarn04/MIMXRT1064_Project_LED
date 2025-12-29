@@ -1,4 +1,0 @@
-../source/Middleware/MessageLayerParser/ReceivingMessageQueue.c:42:6:ReceivingMessageQueue_Init	8	static
-../source/Middleware/MessageLayerParser/ReceivingMessageQueue.c:68:9:ReceivingMessageQueue_EnqueueUDPBuffer	40	static
-../source/Middleware/MessageLayerParser/ReceivingMessageQueue.c:121:9:ReceivingMessageQueue_DequeueUDPBuffer	40	static
-../source/Middleware/MessageLayerParser/ReceivingMessageQueue.c:154:9:ReceivingMessageQueue_IsEmpty	16	static

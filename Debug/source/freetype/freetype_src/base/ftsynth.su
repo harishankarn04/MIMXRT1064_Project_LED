@@ -1,4 +1,0 @@
-../source/freetype/freetype_src/base/ftsynth.c:47:3:FT_GlyphSlot_Oblique	16	static
-../source/freetype/freetype_src/base/ftsynth.c:57:3:FT_GlyphSlot_Slant	48	static
-../source/freetype/freetype_src/base/ftsynth.c:99:3:FT_GlyphSlot_Embolden	16	static
-../source/freetype/freetype_src/base/ftsynth.c:106:3:FT_GlyphSlot_AdjustWeight	48	static

@@ -1,4 +1,0 @@
-../source/HAL/EthernetInterface/protocols/tcp.c:51:17:TCP_ServerInit	40	static
-../source/HAL/EthernetInterface/protocols/tcp.c:105:7:TCP_SendMessage	32	static
-../source/HAL/EthernetInterface/protocols/tcp.c:137:7:TCPDefaultReceive	24	static
-../source/HAL/EthernetInterface/protocols/tcp.c:167:14:TCPDefaultAccept	24	static

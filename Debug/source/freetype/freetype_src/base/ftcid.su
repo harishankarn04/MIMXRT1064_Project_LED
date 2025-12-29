@@ -1,3 +1,0 @@
-../source/freetype/freetype_src/base/ftcid.c:27:3:FT_Get_CID_Registry_Ordering_Supplement	64	static
-../source/freetype/freetype_src/base/ftcid.c:65:3:FT_Get_CID_Is_Internally_CID_Keyed	40	static
-../source/freetype/freetype_src/base/ftcid.c:91:3:FT_Get_CID_From_Glyph_Index	48	static

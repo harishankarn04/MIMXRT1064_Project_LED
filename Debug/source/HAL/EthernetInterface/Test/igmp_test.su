@@ -1,3 +1,0 @@
-../source/HAL/EthernetInterface/Test/igmp_test.c:51:6:CustomMulticastReceive	48	static
-../source/HAL/EthernetInterface/Test/igmp_test.c:76:6:MulticastInit	16	static
-../source/HAL/EthernetInterface/Test/igmp_test.c:87:6:MulticastTestHandler	16	static
