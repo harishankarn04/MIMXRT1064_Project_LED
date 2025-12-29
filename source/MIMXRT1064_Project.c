@@ -177,7 +177,7 @@ int main(void)
 //   lv_hb_label_create(scr, "नमस्ते दुनिया", "fonts/Nirmala.ttc", 32, 20, 120);
 //   lv_hb_label_create(scr, "ಶುಭ ಮಧ್ಯಾನ", "fonts/Nirmala.ttc", 32, 20, 180);
    //lv_hb_label_create(scr, "مرحبا بالعالم", "fonts/Nirmala.ttc", 32, 20, 180);
-   lv_hb_label_create(scr, "G O O D M O R N I N G",   "fonts/MTCORSVA.ttf", 16, 0, 0); // 32, 20, 240 (*changed)
+   lv_hb_label_create(scr, "ഭ",   "fonts/MTCORSVA.ttf", 16, 0, 0); // 32, 20, 240 (*changed)
 
    lv_obj_invalidate(scr);
 
