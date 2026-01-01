@@ -313,11 +313,6 @@ struct hb_vector_t
     assert (allocated < 0);
     allocated = -(allocated + 1);
   }
-  void ensure_error ()
-  {
-    if (!in_error ())
-      set_error ();
-  }
 
   Type *
   _realloc (unsigned new_allocated)

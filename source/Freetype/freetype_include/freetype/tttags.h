@@ -4,7 +4,7 @@
  *
  *   Tags for TrueType and OpenType tables (specification only).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,7 +20,7 @@
 #define TTAGS_H_
 
 
-#include "freetype.h"
+#include <freetype/freetype.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

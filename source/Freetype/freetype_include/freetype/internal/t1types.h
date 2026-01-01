@@ -5,7 +5,7 @@
  *   Basic Type1/Type2 type definitions and interface (specification
  *   only).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -21,11 +21,11 @@
 #define T1TYPES_H_
 
 
-#include "../ftmm.h"
-#include "../internal/pshints.h"
-#include "../internal/ftserv.h"
-#include "../internal/fthash.h"
-#include "../internal/services/svpscmap.h"
+#include <freetype/ftmm.h>
+#include <freetype/internal/pshints.h>
+#include <freetype/internal/ftserv.h>
+#include <freetype/internal/fthash.h>
+#include <freetype/internal/services/svpscmap.h>
 
 
 FT_BEGIN_HEADER

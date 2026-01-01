@@ -4,7 +4,7 @@
  *
  *   The FreeType CFF tables loader service (specification).
  *
- * Copyright (C) 2017-2025 by
+ * Copyright (C) 2017-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,8 +19,8 @@
 #ifndef SVCFFTL_H_
 #define SVCFFTL_H_
 
-#include "../ftserv.h"
-#include "../cfftypes.h"
+#include <freetype/internal/ftserv.h>
+#include <freetype/internal/cfftypes.h>
 
 
 FT_BEGIN_HEADER

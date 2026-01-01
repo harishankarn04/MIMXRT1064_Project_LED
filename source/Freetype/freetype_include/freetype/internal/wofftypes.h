@@ -5,7 +5,7 @@
  *   Basic WOFF/WOFF2 type definitions and interface (specification
  *   only).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -21,8 +21,8 @@
 #define WOFFTYPES_H_
 
 
-#include "../tttables.h"
-#include "ftobjs.h"
+#include <freetype/tttables.h>
+#include <freetype/internal/ftobjs.h>
 
 
 FT_BEGIN_HEADER

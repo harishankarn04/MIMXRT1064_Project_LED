@@ -4,7 +4,7 @@
  *
  *   Embedded resource forks accessor (specification).
  *
- * Copyright (C) 2004-2025 by
+ * Copyright (C) 2004-2024 by
  * Masatake YAMATO and Redhat K.K.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -25,7 +25,7 @@
 #define FTRFORK_H_
 
 
-#include "ftobjs.h"
+#include <freetype/internal/ftobjs.h>
 
 
 FT_BEGIN_HEADER

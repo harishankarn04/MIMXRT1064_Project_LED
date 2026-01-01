@@ -6,7 +6,7 @@
  *   recorders (specification only).  These are used to support native
  *   T1/T2 hints in the 'type1', 'cid', and 'cff' font drivers.
  *
- * Copyright (C) 2001-2025 by
+ * Copyright (C) 2001-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -22,8 +22,8 @@
 #define PSHINTS_H_
 
 
-#include "../freetype.h"
-#include "../t1tables.h"
+#include <freetype/freetype.h>
+#include <freetype/t1tables.h>
 
 
 FT_BEGIN_HEADER

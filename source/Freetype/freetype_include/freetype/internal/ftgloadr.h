@@ -4,7 +4,7 @@
  *
  *   The FreeType glyph loader (specification).
  *
- * Copyright (C) 2002-2025 by
+ * Copyright (C) 2002-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,7 +20,7 @@
 #define FTGLOADR_H_
 
 
-#include "../freetype.h"
+#include <freetype/freetype.h>
 
 #include "compiler-macros.h"
 

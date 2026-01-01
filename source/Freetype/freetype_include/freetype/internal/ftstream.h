@@ -4,7 +4,7 @@
  *
  *   Stream handling (specification).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,9 +20,9 @@
 #define FTSTREAM_H_
 
 
-#include "../../ft2build.h"
-#include "../ftsystem.h"
-#include "../internal/ftobjs.h"
+#include <ft2build.h>
+#include <freetype/ftsystem.h>
+#include <freetype/internal/ftobjs.h>
 
 
 FT_BEGIN_HEADER

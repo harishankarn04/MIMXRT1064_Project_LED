@@ -4,7 +4,7 @@
  *
  *   The FreeType TrueType engine query service (specification).
  *
- * Copyright (C) 2006-2025 by
+ * Copyright (C) 2006-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,8 +19,8 @@
 #ifndef SVTTENG_H_
 #define SVTTENG_H_
 
-#include "../ftserv.h"
-#include "../../ftmodapi.h"
+#include <freetype/internal/ftserv.h>
+#include <freetype/ftmodapi.h>
 
 
 FT_BEGIN_HEADER

@@ -4,7 +4,7 @@
  *
  *   The FreeType private base classes (specification).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -26,18 +26,18 @@
 #ifndef FTOBJS_H_
 #define FTOBJS_H_
 
-#include "../ftrender.h"
-#include "../ftsizes.h"
-#include "../ftlcdfil.h"
-#include "../internal/ftmemory.h"
-#include "../internal/ftgloadr.h"
-#include "../internal/ftdrv.h"
-#include "../internal/autohint.h"
-#include "../internal/ftserv.h"
-#include "../internal/ftcalc.h"
+#include <freetype/ftrender.h>
+#include <freetype/ftsizes.h>
+#include <freetype/ftlcdfil.h>
+#include <freetype/internal/ftmemory.h>
+#include <freetype/internal/ftgloadr.h>
+#include <freetype/internal/ftdrv.h>
+#include <freetype/internal/autohint.h>
+#include <freetype/internal/ftserv.h>
+#include <freetype/internal/ftcalc.h>
 
 #ifdef FT_CONFIG_OPTION_INCREMENTAL
-#include "../ftincrem.h"
+#include <freetype/ftincrem.h>
 #endif
 
 #include "compiler-macros.h"
@@ -275,28 +275,6 @@ FT_BEGIN_HEADER
                   FT_GlyphSlot    slot,
                   FT_Render_Mode  mode );
 
-
-  /**************************************************************************
-   *
-   * @Function:
-   *   find_unicode_charmap
-   *
-   * @Description:
-   *   This function finds a Unicode charmap, if there is one.  And if there
-   *   is more than one, it tries to favour the more extensive one, i.e., one
-   *   that supports UCS-4 against those which are limited to the BMP (UCS-2
-   *   encoding.)
-   *
-   *   If a unicode charmap is found, `face->charmap` is set to it.
-   *
-   *   This function is called from `open_face`, from `FT_Select_Charmap(...,
-   *   FT_ENCODING_UNICODE)`, and also from `afadjust.c` in the 'autofit'
-   *   module.
-   */
-  FT_BASE( FT_Error )
-  find_unicode_charmap( FT_Face  face );
-
-
 #ifdef FT_CONFIG_OPTION_SUBPIXEL_RENDERING
 
   typedef void  (*FT_Bitmap_LcdFilterFunc)( FT_Bitmap*      bitmap,
@@ -520,9 +498,9 @@ FT_BEGIN_HEADER
    */
   typedef struct  FT_ModuleRec_
   {
-    const FT_Module_Class*  clazz;
-    FT_Library              library;
-    FT_Memory               memory;
+    FT_Module_Class*  clazz;
+    FT_Library        library;
+    FT_Memory         memory;
 
   } FT_ModuleRec;
 
@@ -993,6 +971,17 @@ FT_BEGIN_HEADER
   FT_Done_Memory( FT_Memory  memory );
 
 #endif /* !FT_CONFIG_OPTION_NO_DEFAULT_SYSTEM */
+
+
+  /* Define default raster's interface.  The default raster is located in  */
+  /* `src/base/ftraster.c'.                                                */
+  /*                                                                       */
+  /* Client applications can register new rasters through the              */
+  /* FT_Set_Raster() API.                                                  */
+
+#ifndef FT_NO_DEFAULT_RASTER
+  FT_EXPORT_VAR( FT_Raster_Funcs )  ft_default_raster;
+#endif
 
 
   /**************************************************************************

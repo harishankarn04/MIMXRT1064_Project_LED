@@ -4,7 +4,7 @@
  *
  *   Compiler-specific macro definitions used internally by FreeType.
  *
- * Copyright (C) 2020-2025 by
+ * Copyright (C) 2020-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -18,7 +18,7 @@
 #ifndef INTERNAL_COMPILER_MACROS_H_
 #define INTERNAL_COMPILER_MACROS_H_
 
-#include "../config/public-macros.h"
+#include <freetype/config/public-macros.h>
 
 FT_BEGIN_HEADER
 
@@ -128,8 +128,8 @@ FT_BEGIN_HEADER
    * before a function declaration.
    */
 
-  /* Visual C, MinGW, Cygwin */
-#if defined( _WIN32 ) || defined( __CYGWIN__ )
+  /* Visual C, mingw */
+#if defined( _WIN32 )
 #define FT_INTERNAL_FUNCTION_ATTRIBUTE  /* empty */
 
   /* gcc, clang */

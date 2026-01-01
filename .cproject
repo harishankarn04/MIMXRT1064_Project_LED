@@ -28,7 +28,9 @@
 								<option id="gnu.cpp.compiler.option.dialect.flags.1116744579" name="Other dialect flags" superClass="gnu.cpp.compiler.option.dialect.flags" useByScannerDiscovery="true"/>
 								<option id="gnu.cpp.compiler.option.preprocessor.nostdinc.431656024" name="Do not search system directories (-nostdinc)" superClass="gnu.cpp.compiler.option.preprocessor.nostdinc" useByScannerDiscovery="false"/>
 								<option id="gnu.cpp.compiler.option.preprocessor.preprocess.949041625" name="Preprocess only (-E)" superClass="gnu.cpp.compiler.option.preprocessor.preprocess" useByScannerDiscovery="false"/>
-								<option id="gnu.cpp.compiler.option.preprocessor.def.985984420" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" useByScannerDiscovery="false"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.cpp.compiler.option.preprocessor.def.985984420" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="__NEWLIB__"/>
+								</option>
 								<option id="gnu.cpp.compiler.option.preprocessor.undef.215976380" name="Undefined symbols (-U)" superClass="gnu.cpp.compiler.option.preprocessor.undef" useByScannerDiscovery="false"/>
 								<option id="gnu.cpp.compiler.option.include.paths.82284543" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false"/>
 								<option id="gnu.cpp.compiler.option.include.files.9080644" name="Include files (-include)" superClass="gnu.cpp.compiler.option.include.files" useByScannerDiscovery="false"/>
@@ -126,6 +128,7 @@
 								<option id="gnu.c.compiler.option.preprocessor.preprocess.1318020920" name="Preprocess only (-E)" superClass="gnu.c.compiler.option.preprocessor.preprocess" useByScannerDiscovery="false"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="gnu.c.compiler.option.preprocessor.undef.symbol.1311991971" name="Undefined symbols (-U)" superClass="gnu.c.compiler.option.preprocessor.undef.symbol" useByScannerDiscovery="false" valueType="undefDefinedSymbols"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.838606303" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/source/Freetype/freetype_include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device/periph}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/utilities/debug_console_lite}&quot;"/>
@@ -410,7 +413,7 @@
 								<option id="gnu.c.link.option.noshared.567411255" name="No shared libraries (-static)" superClass="gnu.c.link.option.noshared"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.link.option.libs.1824204646" name="Libraries (-l)" superClass="gnu.c.link.option.libs" valueType="libs">
 									<listOptionValue builtIn="false" value="harfbuzz"/>
-									<listOptionValue builtIn="false" value="freetype"/>
+									<listOptionValue builtIn="false" value="freetyped"/>
 									<listOptionValue builtIn="false" value="stdc++"/>
 									<listOptionValue builtIn="false" value="m"/>
 								</option>
@@ -473,10 +476,15 @@
 					<folderInfo id="com.crt.advproject.config.exe.debug.587152178.139936216" name="/" resourcePath="source">
 						<toolChain id="com.crt.advproject.toolchain.exe.debug.1793461351" name="NXP MCU Tools" superClass="com.crt.advproject.toolchain.exe.debug" unusedChildren="">
 							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.GNU_ELF" id="com.crt.advproject.platform.exe.debug" name="ARM-based MCU (Debug)" superClass="com.crt.advproject.platform.exe.debug"/>
-							<tool id="com.crt.advproject.cpp.exe.debug.136888137" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug.6107435"/>
+							<tool id="com.crt.advproject.cpp.exe.debug.136888137" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug.6107435">
+								<option id="com.crt.advproject.cpp.thumb.1029619769" name="Thumb mode" superClass="com.crt.advproject.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.cpp.fpu.2060599160" name="Floating point" superClass="com.crt.advproject.cpp.fpu" value="com.crt.advproject.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.cpp.specs.1947970222" name="Specs" superClass="com.crt.advproject.cpp.specs" value="com.crt.advproject.cpp.specs.newlib" valueType="enumerated"/>
+							</tool>
 							<tool id="com.crt.advproject.gcc.exe.debug.723983663" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug.1079762158">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.1787266674" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/source/Freetype/freetype_include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device/periph}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/utilities/debug_console_lite}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/uart}&quot;"/>
@@ -553,22 +561,103 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lwip/src/apps/httpsrv}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lwip/port/sys_arch/static}&quot;"/>
 								</option>
+								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.655072071" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" value="gnu.c.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.misc.other.603453412" name="Other flags" superClass="gnu.c.compiler.option.misc.other" value="-c -fmessage-length=0" valueType="string"/>
+								<option id="com.crt.advproject.gcc.fpu.1013981984" name="Floating point" superClass="com.crt.advproject.gcc.fpu" value="com.crt.advproject.gcc.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.thumb.2074001474" name="Thumb mode" superClass="com.crt.advproject.gcc.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gcc.hdrlib.1886402186" name="Library headers" superClass="com.crt.advproject.gcc.hdrlib" value="com.crt.advproject.gcc.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.specs.1352803192" name="Specs" superClass="com.crt.advproject.gcc.specs" value="com.crt.advproject.gcc.specs.newlibnano" valueType="enumerated"/>
 								<inputType id="com.crt.advproject.compiler.input.2070293491" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
 							<tool id="com.crt.advproject.gas.exe.debug.562537946" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug.839802320">
+								<option id="gnu.both.asm.option.flags.crt.504900094" name="Assembler flags" superClass="gnu.both.asm.option.flags.crt" value="-c -x assembler-with-cpp" valueType="string"/>
+								<option id="com.crt.advproject.gas.fpu.63722217" name="Floating point" superClass="com.crt.advproject.gas.fpu" value="com.crt.advproject.gas.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.thumb.847718589" name="Thumb mode" superClass="com.crt.advproject.gas.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gas.hdrlib.932740251" name="Library headers" superClass="com.crt.advproject.gas.hdrlib" value="com.crt.advproject.gas.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.specs.132528355" name="Specs" superClass="com.crt.advproject.gas.specs" value="com.crt.advproject.gas.specs.newlibnano" valueType="enumerated"/>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1674292186" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
 								<inputType id="com.crt.advproject.assembler.input.1612944421" name="Additional Assembly Source Files" superClass="com.crt.advproject.assembler.input"/>
 							</tool>
-							<tool id="com.crt.advproject.link.cpp.exe.debug.1550729023" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug.2090158206"/>
-							<tool id="com.crt.advproject.link.exe.debug.759310069" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug.1360435828"/>
+							<tool id="com.crt.advproject.link.cpp.exe.debug.1550729023" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug.2090158206">
+								<option id="gnu.cpp.link.option.nostdlibs.1598357286" name="No startup or default libs (-nostdlib)" superClass="gnu.cpp.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.thumb.1412347902" name="Thumb mode" superClass="com.crt.advproject.link.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.fpu.1333393948" name="Floating point" superClass="com.crt.advproject.link.cpp.fpu" value="com.crt.advproject.link.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.cpp.flashconfigenable.1637666552" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.cpp.flashconfigenable" value="false" valueType="boolean"/>
+							</tool>
+							<tool id="com.crt.advproject.link.exe.debug.759310069" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug.1360435828">
+								<option id="gnu.c.link.option.nostdlibs.2129101259" name="No startup or default libs (-nostdlib)" superClass="gnu.c.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.fpu.1423966095" name="Floating point" superClass="com.crt.advproject.link.fpu" value="com.crt.advproject.link.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.thumb.783569097" name="Thumb mode" superClass="com.crt.advproject.link.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.manage.549161862" name="Manage linker script" superClass="com.crt.advproject.link.manage" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.flashconfigenable.318616835" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.flashconfigenable" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.gcc.hdrlib.2142688748" name="Library" superClass="com.crt.advproject.link.gcc.hdrlib" value="com.crt.advproject.gcc.link.hdrlib.codered.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.memory.heapAndStack.style.792306431" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style" value="com.crt.advproject.heapAndStack.lpcXpressoStyle" valueType="enumerated"/>
+							</tool>
 							<tool id="com.crt.advproject.tool.debug.debug.1904696908" name="MCU Debugger" superClass="com.crt.advproject.tool.debug.debug.1862213819"/>
+						</toolChain>
+					</folderInfo>
+					<folderInfo id="com.crt.advproject.config.exe.debug.587152178.735475824" name="/" resourcePath="lvgl">
+						<toolChain id="com.crt.advproject.toolchain.exe.debug.905300798" name="NXP MCU Tools" superClass="com.crt.advproject.toolchain.exe.debug" unusedChildren="">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.GNU_ELF" id="com.crt.advproject.platform.exe.debug" name="ARM-based MCU (Debug)" superClass="com.crt.advproject.platform.exe.debug"/>
+							<tool id="com.crt.advproject.cpp.exe.debug.899724161" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug.6107435">
+								<option id="com.crt.advproject.cpp.thumb.703718294" name="Thumb mode" superClass="com.crt.advproject.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.cpp.fpu.1834916521" name="Floating point" superClass="com.crt.advproject.cpp.fpu" value="com.crt.advproject.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.cpp.specs.1548617762" name="Specs" superClass="com.crt.advproject.cpp.specs" value="com.crt.advproject.cpp.specs.newlib" valueType="enumerated"/>
+							</tool>
+							<tool id="com.crt.advproject.gcc.exe.debug.254529296" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug.1079762158">
+								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.483585745" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" value="gnu.c.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.misc.other.1411388320" name="Other flags" superClass="gnu.c.compiler.option.misc.other" value="-c -fmessage-length=0" valueType="string"/>
+								<option id="com.crt.advproject.gcc.fpu.574534740" name="Floating point" superClass="com.crt.advproject.gcc.fpu" value="com.crt.advproject.gcc.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.thumb.621136950" name="Thumb mode" superClass="com.crt.advproject.gcc.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gcc.hdrlib.180562539" name="Library headers" superClass="com.crt.advproject.gcc.hdrlib" value="com.crt.advproject.gcc.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.specs.764715772" name="Specs" superClass="com.crt.advproject.gcc.specs" value="com.crt.advproject.gcc.specs.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.specs.1098712178" name="Specs" superClass="com.crt.advproject.gcc.specs" value="com.crt.advproject.gcc.specs.codered" valueType="enumerated"/>
+								<inputType id="com.crt.advproject.compiler.input.1805306427" superClass="com.crt.advproject.compiler.input"/>
+							</tool>
+							<tool id="com.crt.advproject.gas.exe.debug.1934274607" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug.839802320">
+								<option id="gnu.both.asm.option.flags.crt.390797579" name="Assembler flags" superClass="gnu.both.asm.option.flags.crt" value="-c -x assembler-with-cpp -D__REDLIB__" valueType="string"/>
+								<option id="com.crt.advproject.gas.fpu.997166031" name="Floating point" superClass="com.crt.advproject.gas.fpu" value="com.crt.advproject.gas.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.thumb.862415021" name="Thumb mode" superClass="com.crt.advproject.gas.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gas.hdrlib.1714838596" name="Library headers" superClass="com.crt.advproject.gas.hdrlib" value="com.crt.advproject.gas.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.specs.126560044" name="Specs" superClass="com.crt.advproject.gas.specs" value="com.crt.advproject.gas.specs.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.specs.222340741" name="Specs" superClass="com.crt.advproject.gas.specs" value="com.crt.advproject.gas.specs.codered" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.112670194" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+								<inputType id="com.crt.advproject.assembler.input.1418400278" name="Additional Assembly Source Files" superClass="com.crt.advproject.assembler.input"/>
+							</tool>
+							<tool id="com.crt.advproject.link.cpp.exe.debug.1280889073" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug.2090158206">
+								<option id="gnu.cpp.link.option.nostdlibs.942608379" name="No startup or default libs (-nostdlib)" superClass="gnu.cpp.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.thumb.1108095725" name="Thumb mode" superClass="com.crt.advproject.link.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.fpu.1294635904" name="Floating point" superClass="com.crt.advproject.link.cpp.fpu" value="com.crt.advproject.link.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.cpp.flashconfigenable.430872849" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.cpp.flashconfigenable" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.memory.heapAndStack.style.cpp.1142602393" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style.cpp" value="com.crt.advproject.heapAndStack.lpcXpressoStyle.cpp" valueType="enumerated"/>
+							</tool>
+							<tool id="com.crt.advproject.link.exe.debug.483577274" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug.1360435828">
+								<option id="gnu.c.link.option.nostdlibs.805389278" name="No startup or default libs (-nostdlib)" superClass="gnu.c.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.fpu.2003791192" name="Floating point" superClass="com.crt.advproject.link.fpu" value="com.crt.advproject.link.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.thumb.1872395055" name="Thumb mode" superClass="com.crt.advproject.link.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.manage.1999855872" name="Manage linker script" superClass="com.crt.advproject.link.manage" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.flashconfigenable.935046180" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.flashconfigenable" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.gcc.hdrlib.1217227147" name="Library" superClass="com.crt.advproject.link.gcc.hdrlib" value="com.crt.advproject.gcc.link.hdrlib.codered.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.memory.heapAndStack.style.873854579" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style" value="com.crt.advproject.heapAndStack.lpcXpressoStyle" valueType="enumerated"/>
+							</tool>
+							<tool id="com.crt.advproject.tool.debug.debug.1279672563" name="MCU Debugger" superClass="com.crt.advproject.tool.debug.debug.1862213819"/>
 						</toolChain>
 					</folderInfo>
 					<folderInfo id="com.crt.advproject.config.exe.debug.587152178.57066264" name="/" resourcePath="lvgl/src">
 						<toolChain id="com.crt.advproject.toolchain.exe.debug.905633593" name="NXP MCU Tools" superClass="com.crt.advproject.toolchain.exe.debug" unusedChildren="">
 							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF;org.eclipse.cdt.core.GNU_ELF" id="com.crt.advproject.platform.exe.debug" name="ARM-based MCU (Debug)" superClass="com.crt.advproject.platform.exe.debug"/>
-							<tool id="com.crt.advproject.cpp.exe.debug.1681270040" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug.6107435"/>
+							<tool id="com.crt.advproject.cpp.exe.debug.1681270040" name="MCU C++ Compiler" superClass="com.crt.advproject.cpp.exe.debug.6107435">
+								<option id="com.crt.advproject.cpp.thumb.1094667495" name="Thumb mode" superClass="com.crt.advproject.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.cpp.fpu.1553849507" name="Floating point" superClass="com.crt.advproject.cpp.fpu" value="com.crt.advproject.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.cpp.specs.1602062044" name="Specs" superClass="com.crt.advproject.cpp.specs" value="com.crt.advproject.cpp.specs.newlib" valueType="enumerated"/>
+							</tool>
 							<tool id="com.crt.advproject.gcc.exe.debug.1020394796" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug.1079762158">
+								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.1198105505" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" value="gnu.c.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.misc.other.1118608415" name="Other flags" superClass="gnu.c.compiler.option.misc.other" value="-c -fmessage-length=0" valueType="string"/>
+								<option id="com.crt.advproject.gcc.fpu.449215877" name="Floating point" superClass="com.crt.advproject.gcc.fpu" value="com.crt.advproject.gcc.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.thumb.805020869" name="Thumb mode" superClass="com.crt.advproject.gcc.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gcc.hdrlib.1650900845" name="Library headers" superClass="com.crt.advproject.gcc.hdrlib" value="com.crt.advproject.gcc.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gcc.specs.175013878" name="Specs" superClass="com.crt.advproject.gcc.specs" value="com.crt.advproject.gcc.specs.newlibnano" valueType="enumerated"/>
 								<inputType id="com.crt.advproject.compiler.input.1918733499" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
 							<tool id="com.crt.advproject.gas.exe.debug.2088053359" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug.839802320">
@@ -644,11 +733,29 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lvgl/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/source/application/DisplayController}&quot;"/>
 								</option>
+								<option id="gnu.both.asm.option.flags.crt.2036926255" name="Assembler flags" superClass="gnu.both.asm.option.flags.crt" value="-c -x assembler-with-cpp" valueType="string"/>
+								<option id="com.crt.advproject.gas.fpu.1510914176" name="Floating point" superClass="com.crt.advproject.gas.fpu" value="com.crt.advproject.gas.fpu.fpv5dp.hard" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.thumb.1309034567" name="Thumb mode" superClass="com.crt.advproject.gas.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.gas.hdrlib.2138576912" name="Library headers" superClass="com.crt.advproject.gas.hdrlib" value="com.crt.advproject.gas.hdrlib.newlibnano" valueType="enumerated"/>
+								<option id="com.crt.advproject.gas.specs.1531132766" name="Specs" superClass="com.crt.advproject.gas.specs" value="com.crt.advproject.gas.specs.newlibnano" valueType="enumerated"/>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.11520591" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
 								<inputType id="com.crt.advproject.assembler.input.1447025121" name="Additional Assembly Source Files" superClass="com.crt.advproject.assembler.input"/>
 							</tool>
-							<tool id="com.crt.advproject.link.cpp.exe.debug.886482422" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug.2090158206"/>
-							<tool id="com.crt.advproject.link.exe.debug.162291296" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug.1360435828"/>
+							<tool id="com.crt.advproject.link.cpp.exe.debug.886482422" name="MCU C++ Linker" superClass="com.crt.advproject.link.cpp.exe.debug.2090158206">
+								<option id="gnu.cpp.link.option.nostdlibs.1910932903" name="No startup or default libs (-nostdlib)" superClass="gnu.cpp.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.thumb.1105433887" name="Thumb mode" superClass="com.crt.advproject.link.cpp.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.cpp.fpu.133750087" name="Floating point" superClass="com.crt.advproject.link.cpp.fpu" value="com.crt.advproject.link.cpp.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.cpp.flashconfigenable.1887144669" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.cpp.flashconfigenable" value="false" valueType="boolean"/>
+							</tool>
+							<tool id="com.crt.advproject.link.exe.debug.162291296" name="MCU Linker" superClass="com.crt.advproject.link.exe.debug.1360435828">
+								<option id="gnu.c.link.option.nostdlibs.684994681" name="No startup or default libs (-nostdlib)" superClass="gnu.c.link.option.nostdlibs" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.fpu.704892799" name="Floating point" superClass="com.crt.advproject.link.fpu" value="com.crt.advproject.link.fpu.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.thumb.1408395807" name="Thumb mode" superClass="com.crt.advproject.link.thumb" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.manage.1841697049" name="Manage linker script" superClass="com.crt.advproject.link.manage" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.flashconfigenable.1095788149" name="Enable automatic placement of Flash Configuration field in image" superClass="com.crt.advproject.link.flashconfigenable" value="false" valueType="boolean"/>
+								<option id="com.crt.advproject.link.gcc.hdrlib.695299985" name="Library" superClass="com.crt.advproject.link.gcc.hdrlib" value="com.crt.advproject.gcc.link.hdrlib.codered.none" valueType="enumerated"/>
+								<option id="com.crt.advproject.link.memory.heapAndStack.style.95683906" name="Heap and Stack placement" superClass="com.crt.advproject.link.memory.heapAndStack.style" value="com.crt.advproject.heapAndStack.lpcXpressoStyle" valueType="enumerated"/>
+							</tool>
 							<tool id="com.crt.advproject.tool.debug.debug.1445364244" name="MCU Debugger" superClass="com.crt.advproject.tool.debug.debug.1862213819"/>
 						</toolChain>
 					</folderInfo>

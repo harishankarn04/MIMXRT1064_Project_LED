@@ -5,7 +5,7 @@
  *   Auxiliary functions and data structures related to PostScript fonts
  *   (specification).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -21,13 +21,13 @@
 #define PSAUX_H_
 
 
-#include "ftobjs.h"
-#include "t1types.h"
-#include "fthash.h"
-#include "tttypes.h"
-#include "services/svpscmap.h"
-#include "cfftypes.h"
-#include "cffotypes.h"
+#include <freetype/internal/ftobjs.h>
+#include <freetype/internal/t1types.h>
+#include <freetype/internal/fthash.h>
+#include <freetype/internal/tttypes.h>
+#include <freetype/internal/services/svpscmap.h>
+#include <freetype/internal/cfftypes.h>
+#include <freetype/internal/cffotypes.h>
 
 
 

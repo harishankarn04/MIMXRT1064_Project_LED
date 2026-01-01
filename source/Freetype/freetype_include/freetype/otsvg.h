@@ -4,7 +4,7 @@
  *
  *   Interface for OT-SVG support related things (specification).
  *
- * Copyright (C) 2022-2025 by
+ * Copyright (C) 2022-2024 by
  * David Turner, Robert Wilhelm, Werner Lemberg, and Moazin Khatti.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,7 +19,7 @@
 #ifndef OTSVG_H_
 #define OTSVG_H_
 
-#include "freetype.h"
+#include <freetype/freetype.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

@@ -32,7 +32,6 @@
 
 #include "hb.hh"
 #include "hb-unicode.hh"
-#include "hb-set-digest.hh"
 
 
 static_assert ((sizeof (hb_glyph_info_t) == 20), "");
@@ -45,14 +44,14 @@ HB_MARK_AS_FLAG_T (hb_buffer_diff_flags_t);
 
 enum hb_buffer_scratch_flags_t {
   HB_BUFFER_SCRATCH_FLAG_DEFAULT			= 0x00000000u,
-  HB_BUFFER_SCRATCH_FLAG_HAS_FRACTION_SLASH		= 0x00000001u,
+  HB_BUFFER_SCRATCH_FLAG_HAS_NON_ASCII			= 0x00000001u,
   HB_BUFFER_SCRATCH_FLAG_HAS_DEFAULT_IGNORABLES		= 0x00000002u,
   HB_BUFFER_SCRATCH_FLAG_HAS_SPACE_FALLBACK		= 0x00000004u,
   HB_BUFFER_SCRATCH_FLAG_HAS_GPOS_ATTACHMENT		= 0x00000008u,
   HB_BUFFER_SCRATCH_FLAG_HAS_CGJ			= 0x00000010u,
-  HB_BUFFER_SCRATCH_FLAG_HAS_BROKEN_SYLLABLE		= 0x00000020u,
-  HB_BUFFER_SCRATCH_FLAG_HAS_VARIATION_SELECTOR_FALLBACK= 0x00000040u,
-  HB_BUFFER_SCRATCH_FLAG_HAS_CONTINUATIONS		= 0x00000080u,
+  HB_BUFFER_SCRATCH_FLAG_HAS_GLYPH_FLAGS		= 0x00000020u,
+  HB_BUFFER_SCRATCH_FLAG_HAS_BROKEN_SYLLABLE		= 0x00000040u,
+  HB_BUFFER_SCRATCH_FLAG_HAS_VARIATION_SELECTOR_FALLBACK= 0x00000080u,
 
   /* Reserved for shapers' internal use. */
   HB_BUFFER_SCRATCH_FLAG_SHAPER0			= 0x01000000u,
@@ -110,7 +109,6 @@ struct hb_buffer_t
   hb_codepoint_t context[2][CONTEXT_LENGTH];
   unsigned int context_len[2];
 
-  hb_set_digest_t digest; /* Manually updated sometimes */
 
   /*
    * Managed by enter / leave
@@ -200,12 +198,6 @@ struct hb_buffer_t
   template <typename set_t>
   void collect_codepoints (set_t &d) const
   { d.clear (); d.add_array (&info[0].codepoint, len, sizeof (info[0])); }
-
-  void update_digest ()
-  {
-    digest = hb_set_digest_t ();
-    collect_codepoints (digest);
-  }
 
   HB_INTERNAL void similar (const hb_buffer_t &src);
   HB_INTERNAL void reset ();
@@ -370,7 +362,7 @@ struct hb_buffer_t
     {
       if (out_info != info || out_len != idx)
       {
-	if (unlikely (!ensure (out_len + n))) return false;
+	if (unlikely (!make_room_for (n, n))) return false;
 	memmove (out_info + out_len, info + idx, n * sizeof (out_info[0]));
       }
       out_len += n;
@@ -417,6 +409,8 @@ struct hb_buffer_t
 			      bool interior,
 			      bool from_out_buffer)
   {
+    scratch_flags |= HB_BUFFER_SCRATCH_FLAG_HAS_GLYPH_FLAGS;
+
     if (!from_out_buffer || !have_output)
     {
       if (!interior)
@@ -634,7 +628,10 @@ struct hb_buffer_t
     {
       for (unsigned int i = start; i < end; i++)
 	if (cluster != infos[i].cluster)
+	{
+	  scratch_flags |= HB_BUFFER_SCRATCH_FLAG_HAS_GLYPH_FLAGS;
 	  infos[i].mask |= mask;
+	}
       return;
     }
 
@@ -643,12 +640,18 @@ struct hb_buffer_t
     if (cluster == cluster_first)
     {
       for (unsigned int i = end; start < i && infos[i - 1].cluster != cluster_first; i--)
+      {
+	scratch_flags |= HB_BUFFER_SCRATCH_FLAG_HAS_GLYPH_FLAGS;
 	infos[i - 1].mask |= mask;
+      }
     }
     else /* cluster == cluster_last */
     {
       for (unsigned int i = start; i < end && infos[i].cluster != cluster_last; i++)
+      {
+	scratch_flags |= HB_BUFFER_SCRATCH_FLAG_HAS_GLYPH_FLAGS;
 	infos[i].mask |= mask;
+      }
     }
   }
   unsigned

@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include "harfbuzz/include/hb.h"
 #include "harfbuzz/include/hb-ft.h"
-#include "Freetype/freetype_include/ft2build.h"
+#include <ft2build.h>
 #include FT_FREETYPE_H
 
 typedef struct {

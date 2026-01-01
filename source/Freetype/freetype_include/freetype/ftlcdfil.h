@@ -5,7 +5,7 @@
  *   FreeType API for color filtering of subpixel bitmap glyphs
  *   (specification).
  *
- * Copyright (C) 2006-2025 by
+ * Copyright (C) 2006-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,8 +20,8 @@
 #ifndef FTLCDFIL_H_
 #define FTLCDFIL_H_
 
-#include "freetype.h"
-#include "ftparams.h"
+#include <freetype/freetype.h>
+#include <freetype/ftparams.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

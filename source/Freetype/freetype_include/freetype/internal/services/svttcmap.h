@@ -4,7 +4,7 @@
  *
  *   The FreeType TrueType/sfnt cmap extra information service.
  *
- * Copyright (C) 2003-2025 by
+ * Copyright (C) 2003-2024 by
  * Masatake YAMATO, Redhat K.K.,
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
@@ -22,8 +22,8 @@
 #ifndef SVTTCMAP_H_
 #define SVTTCMAP_H_
 
-#include "..//ftserv.h"
-#include "../../tttables.h"
+#include <freetype/internal/ftserv.h>
+#include <freetype/tttables.h>
 
 
 FT_BEGIN_HEADER

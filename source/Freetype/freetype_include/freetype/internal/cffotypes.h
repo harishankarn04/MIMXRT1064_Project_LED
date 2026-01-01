@@ -4,7 +4,7 @@
  *
  *   Basic OpenType/CFF object type definitions (specification).
  *
- * Copyright (C) 2017-2025 by
+ * Copyright (C) 2017-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,11 +19,11 @@
 #ifndef CFFOTYPES_H_
 #define CFFOTYPES_H_
 
-#include "ftobjs.h"
-#include "cfftypes.h"
-#include "tttypes.h"
-#include "services/svpscmap.h"
-#include "pshints.h"
+#include <freetype/internal/ftobjs.h>
+#include <freetype/internal/cfftypes.h>
+#include <freetype/internal/tttypes.h>
+#include <freetype/internal/services/svpscmap.h>
+#include <freetype/internal/pshints.h>
 
 
 FT_BEGIN_HEADER

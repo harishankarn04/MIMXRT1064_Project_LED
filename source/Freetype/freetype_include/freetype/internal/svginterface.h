@@ -4,7 +4,7 @@
  *
  *   Interface of ot-svg module (specification only).
  *
- * Copyright (C) 2022-2025 by
+ * Copyright (C) 2022-2024 by
  * David Turner, Robert Wilhelm, Werner Lemberg, and Moazin Khatti.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,8 +19,8 @@
 #ifndef SVGINTERFACE_H_
 #define SVGINTERFACE_H_
 
-#include "../../ft2build.h"
-#include "../otsvg.h"
+#include <ft2build.h>
+#include <freetype/otsvg.h>
 
 
 FT_BEGIN_HEADER

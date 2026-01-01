@@ -4,7 +4,7 @@
  *
  *   FreeType utility functions for bitmaps (specification).
  *
- * Copyright (C) 2004-2025 by
+ * Copyright (C) 2004-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,8 +20,8 @@
 #define FTBITMAP_H_
 
 
-#include "../../freetype_include/freetype/freetype.h"
-#include "../../freetype_include/freetype/ftcolor.h"
+#include <freetype/freetype.h>
+#include <freetype/ftcolor.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

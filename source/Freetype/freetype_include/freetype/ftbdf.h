@@ -4,7 +4,7 @@
  *
  *   FreeType API for accessing BDF-specific strings (specification).
  *
- * Copyright (C) 2002-2025 by
+ * Copyright (C) 2002-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -19,7 +19,7 @@
 #ifndef FTBDF_H_
 #define FTBDF_H_
 
-#include "freetype.h"
+#include <freetype/freetype.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

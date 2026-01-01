@@ -4,7 +4,7 @@
  *
  *   FreeType internal font driver interface (specification).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,7 +20,7 @@
 #define FTDRV_H_
 
 
-#include "../ftmodapi.h"
+#include <freetype/ftmodapi.h>
 
 #include "compiler-macros.h"
 

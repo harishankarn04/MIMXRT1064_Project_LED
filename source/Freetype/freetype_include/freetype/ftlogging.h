@@ -4,7 +4,7 @@
  *
  *   Additional debugging APIs.
  *
- * Copyright (C) 2020-2025 by
+ * Copyright (C) 2020-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -20,7 +20,7 @@
 #define FTLOGGING_H_
 
 
-#include "../ft2build.h"
+#include <ft2build.h>
 #include FT_CONFIG_CONFIG_H
 
 

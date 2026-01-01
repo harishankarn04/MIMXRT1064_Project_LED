@@ -4,7 +4,7 @@
  *
  *   FreeType API for validating TrueTypeGX/AAT tables (specification).
  *
- * Copyright (C) 2004-2025 by
+ * Copyright (C) 2004-2024 by
  * Masatake YAMATO, Redhat K.K,
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
@@ -28,7 +28,7 @@
 #ifndef FTGXVAL_H_
 #define FTGXVAL_H_
 
-#include "freetype.h"
+#include <freetype/freetype.h>
 
 #ifdef FREETYPE_H
 #error "freetype.h of FreeType 1 has been loaded!"

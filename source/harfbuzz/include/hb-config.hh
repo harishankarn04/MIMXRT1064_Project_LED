@@ -34,10 +34,11 @@
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
-//#define HB_MINI //Alhad
+
 #ifndef HB_EXPERIMENTAL_API
 #define HB_NO_BEYOND_64K
 #define HB_NO_CUBIC_GLYF
+#define HB_NO_VAR_COMPOSITES
 #endif
 
 #ifdef HB_TINY
@@ -143,6 +144,10 @@
 #ifdef HB_NO_DRAW
 #define HB_NO_OUTLINE
 #define HB_NO_PAINT
+#endif
+
+#ifdef HB_NO_GETENV
+#define HB_NO_UNISCRIBE_BUG_COMPATIBLE
 #endif
 
 #ifdef HB_NO_LEGACY

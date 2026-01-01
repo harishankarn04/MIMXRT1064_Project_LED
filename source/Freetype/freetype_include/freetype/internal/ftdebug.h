@@ -4,7 +4,7 @@
  *
  *   Debugging and logging component (specification).
  *
- * Copyright (C) 1996-2025 by
+ * Copyright (C) 1996-2024 by
  * David Turner, Robert Wilhelm, and Werner Lemberg.
  *
  * This file is part of the FreeType project, and may only be used,
@@ -25,9 +25,9 @@
 #define FTDEBUG_H_
 
 
-#include "../../ft2build.h"
-#include "../config/ftconfig.h"
-#include "../freetype.h"
+#include <ft2build.h>
+#include FT_CONFIG_CONFIG_H
+#include <freetype/freetype.h>
 
 #include "compiler-macros.h"
 
