@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ethernet.h": "c",
+        "processcommand.h": "c",
+        "udp.h": "c",
+        "initcommandprocess.h": "c",
+        "ip_addr.h": "c",
+        "udphandler.h": "c",
+        "messageprotocolparser.h": "c",
+        "messagedata.h": "c"
+    }
+}
