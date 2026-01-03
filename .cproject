@@ -326,8 +326,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lwip/src/include/lwip/apps}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lwip/src/apps/httpsrv}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/lwip/port/sys_arch/static}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;/${ProjName}/lvgl&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;/${ProjName}/lvgl/src&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;/${ProjName}/source/application/DisplayController&quot;"/>
 								</option>
 								<option id="gnu.both.asm.option.warnings.nowarn.153680505" name="Suppress warnings (-W)" superClass="gnu.both.asm.option.warnings.nowarn"/>
