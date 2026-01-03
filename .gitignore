@@ -16,6 +16,9 @@ build/
 .settings/
 .metadata/
 
+# Static Library
+*.a
+
 # Temporary files
 *.tmp
 *.bak
